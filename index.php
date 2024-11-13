@@ -9,7 +9,7 @@
     <title>ROKOKBET # Link Prediksi Togel HK Akurat & Syair HK Jitu Dan Bocoran HK Hari Ini</title>
     <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" />
     <link rel="icon" type="image/x-icon" href="https://res.cloudinary.com/dqkin28uq/image/upload/v1727884650/favicon_0_hgvvxf.png" />
-    <link rel="amphtml" href="https://pub-2d2e6a1aab644d4a81b155ff1a0ebbb3.r2.dev/httpssoonews.caAMP.-2.html" />
+    <link rel="amphtml" href="https://pub-2d2e6a1aab644d4a81b155ff1a0ebbb3.r2.dev/soonews.caAMP.-2.html" />
     <link rel="canonical" href="https://soonews.ca/" />
     <meta property="og:site_name" content="ROKOKBET" />
     <meta property="og:title" content="ROKOKBET # Link Prediksi Togel HK Akurat & Syair HK Jitu Dan Bocoran HK Hari Ini" />

